@@ -1,0 +1,13 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Builds
+public
+
+# Others
+.hugo_build.lock
+resources
+.DS_Store
