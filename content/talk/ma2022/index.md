@@ -31,8 +31,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "/slides/ma2022/ma2022_invite.pdf"
-url_slides: "/slides/ma2022/ma2022.html"
+url_pdf: "ma2022_invite.pdf"
+url_slides: "ma2022.pdf"
 url_video: ""
 
 # Markdown Slides (optional).

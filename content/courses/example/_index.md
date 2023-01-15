@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Survey Methods
-summary: Understand logic and process of conducting surveys and implement your own surveys in the health sciences.
+summary: Understanding population surveys as a research methods in the health sciences.
 weight: 1
 
 # Page metadata.
@@ -21,36 +21,44 @@ menu:
     weight: 1
 ---
 
+![Course Header](people.jpg)
+
 ## Objectives
 
 To train candidates 
-* **to understand logic and process of conducting surveys** 
-* **to critically evaluate surveys as a research tool in the health sciences** 
-* **to design and evaluate various types of sampling strategies** 
-* **to plan and undertake their own surveys**
+* to understand logic and process of conducting surveys
+* to critically evaluate surveys as a research tool in the health sciences 
+* to design and evaluate various types of sampling strategies
+* to plan and undertake their own surveys
 
 ## Content
 
-* **The scope of survey research**
-* **Surveys in health research**
-* **Formalising the survey process**
-* **Survey error**
-* **Target population, study population and sampling**
-* **Sampling strategies**
-* **Power, precision and sample size**
-* **Quantifying theoretical constructs** 
-* **Designing data collection tools** 
-* **Modes of administration**
-* **Beyond questionnaires: biomarkers/observation/direct measurements**
-* **Qualitative methods in survey research**
-* **Ethical aspects and protection of personal information**
-* **Fieldwork** 
-* **Data management**
-* **Principles of data analysis & reporting**
+* The scope of survey research
+* Surveys in health research
+* Formalising the survey process
+* Survey error
+* Target population, study population and sampling
+* Sampling strategies
+* Power, precision and sample size
+* Quantifying theoretical constructs
+* Designing data collection tools
+* Modes of administration
+* Beyond questionnaires: biomarkers/observation/direct measurements
+* Qualitative methods in survey research
+* Ethical aspects and protection of personal information
+* Fieldwork
+* Data management
+* Principles of data analysis & reporting
 
 ## Format
 
 The course will be offered in a online format, with weekly contact sessions, individual engagement with the reading material provided, and online interaction with the [SurveyLab virtual environment](). The latter includes a simulated human population of 40000 individuals which can be surveyed and analysed and allows the students to experiment with the concepts and techniques taught in the course, by designing virtual surveys, sampling the population according to their plan, and conducting virtual interviews to collect the data of interest that they can then analyse and interpret.
+
+Example course materials:
+
+1. [Example Slides (2022)](ExampleSlides.pdf)
+2. [Course schedule & prescribed readings (2022)](Schedule2022.pdf)
+ 
 
 ## Info
 

@@ -34,7 +34,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "slides/ild2022/Greenwich.sozi.html"
+url_slides: "Greenwich.sozi.html"
 url_video: ""
 
 # Markdown Slides (optional).
