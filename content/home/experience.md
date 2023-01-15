@@ -1,0 +1,42 @@
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Affiliations"
+subtitle = "Current employment & affiliations"
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Researcher"
+  company = "Stellenbosch University, Department of Global Health"
+  company_url = "https://www.sun.ac.za"
+  location = "Cape Town, South Africa"
+  date_start = "2021-01-04"
+  date_end = ""
+[[experience]]
+  title = "Honorary Senior Lecturer"
+  company = "University of Cape Town, Division of Epidemiology & Biostatistics, School of public Health"
+  company_url = "https://www.uct.ac.za"
+  location = "Cape Town, South Africa"
+  date_start = "2019-01-01"
+  date_end = ""
+[[experience]]
+  title = "Visiting Researcher"
+  company = "University of Greenwich, Institute for Lifecourse Development"
+  company_url = "https://www.gre.ac.uk/"
+  location = "London, UK"
+  date_start = "2022-05-23"
+  date_end = ""
++++
