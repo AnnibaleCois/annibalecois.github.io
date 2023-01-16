@@ -7,7 +7,22 @@ share: false
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "consult.png"
 ---
+
+![Consulting image](consult.png)
+
+Epidemiological/statistical consulting services for the following types of activities: 
+
+* **Study designs** and **data collection methods**  
+* **Sampling** (design, sample size calculation), 
+* **Sampling weights** and **calibration**
+* **Statistical data analysis**
+    * Cross-sectional and longitudinal analyses
+    * Structural Equation Modelling and Latent Class Analysis
+    * Bayesian multilevel models  
+* Support with **data interpretation**.
+
+Please, make contact for availability and fees.
 
 ...
