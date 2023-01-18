@@ -2,8 +2,8 @@
 title: The SurveyLab
 summary: A virtual environment for teaching survey methods and real-world data analysis
 tags:
-- Teaching & Learning
-- Survey
+- Teaching
+- Surveys
 date: "2022-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
