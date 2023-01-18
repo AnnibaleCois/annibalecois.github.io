@@ -1,0 +1,12 @@
+---
+title: "Antihypertensive Treatment and Blood Pressure Trends among South African Adults: A Repeated Cross-Sectional Analysis of a Population Panel Survey"
+date: 2018-08-01
+publishDate: 2023-01-18T11:26:13.571062Z
+authors: ["Annibale Cois", "Rodney Ehrlich"]
+publication_types: ["2"]
+abstract: "Background Recent findings suggest a decline in mean blood pressure and prevalence of uncontrolled hypertension in the South African adult population in the last decade, in contrast with the increase previously observed. This study aimed at quantifying the contribution of antihypertensive treatment to this decline. Methods We used data from the four waves of the National Income Dynamics Study between 2008 and 2015 and analysed changes in systolic (SBP) and diastolic blood pressure (DBP) and prevalence of uncontrolled hypertension among South African adults (15 years and above). We compared the observed changes with a counterfactual scenario in which the impact of antihypertensive treatment was estimated by censored regression and removed, with and without adjustment for BMI, waist circumference, alcohol use and smoking. Results During the study period, the prevalence of antihypertensive treatment rose from 13.1% to 17.6% among women and from 5.3% to 8.2% among men. Concurrently–despite worsening trends in major biobehavioural risk factors for elevated blood pressure–mean SBP decreased in both genders, DBP decreased among women and was stable among men. The odds of uncontrolled hypertension decreased by 4%/year among women and 1%/year among men. After removing the treatment effect, the downward trend in the odds of uncontrolled hypertension was reduced to 1%/year among women and completely offset among men. Among those 55 years and older, but not among younger subjects, treatment effects also explained most of the observed decreases in mean SBP and DBP. Conclusions Among South African adults, we infer that diffusion of antihypertensive treatment contributed substantially to the downward trend in the prevalence of uncontrolled hypertension observed between 2008 and 2015. The marked decrease in SBP and uncontrolled hypertension found among younger participants could not be explained by treatment nor by the changing distribution of the measured risk factors available in this study, and requires further investigation."
+featured: false
+publication: "*PLOS ONE*"
+doi: "10.1371/journal.pone.0200606"
+---
+

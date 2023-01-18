@@ -35,7 +35,7 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   
   [[content.filter_button]]
     name = "Statistics & Modelling"
-    tag = "Statistics & Modelling"
+    tag = "Modelling"
   
   [[content.filter_button]]
     name = "Surveys"

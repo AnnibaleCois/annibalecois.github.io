@@ -1,0 +1,12 @@
+---
+title: "Obesity Trends and Risk Factors in the South African Adult Population"
+date: 2015-01-01
+publishDate: 2023-01-18T11:26:14.602690Z
+authors: ["Annibale Cois", "Candy Day"]
+publication_types: ["2"]
+abstract: "BACKGROUND:Obesity prevalence is increasing globally and contributes substantially to the burgeoning burden of non-communicable diseases. South Africa is particularly affected by this increasing trend and cross-sectional evidence suggests socioeconomic and behavioural variables as possible drivers. However, no large scale longitudinal study has attempted the direct identification of risk factors for progression towards obesity.METHODS:This study analysed data on 10,100 South African adults (18 years and over) randomly selected in 2008 and successfully recontacted in 2010 and 2012. Latent Growth Modelling was used to estimate the average rate of change in body mass index (BMI) during the study period, and to identify baseline characteristics associated with different trajectories.RESULTS:The overall rate of change in BMI during the study period was +1.57 kg/m 2 per decade (95 % CI: 0.93 2.22), and it was higher among women (+ 1.82 kg/m 2 per decade, 95 % CI: 1.06 2.58) than among men (+ 1.03 kg/m 2 per decade; 95 % CI: 0.14 1.93).Female gender, younger age, larger waist circumference, white population group and higher household income per capita were baseline characteristics associated with higher rates of change.The association between tobacco use and obesity was complex. Smoking was associated with greater waist circumference at baseline but lower rates of increase in BMI during the study period. Quitting smoking was an independent predictor of BMI increase among subjects with normal weight at baseline.Among subjects with baseline BMI lower than 25 kg/m 2 , rates of changes were higher in rural than urban areas, and inversely related to the frequency of physical exercise.CONCLUSIONS:A strong positive trend in BMI remains in South Africa and obesity prevalence is likely to increase. Trends are not homogeneous, and high risk groups (subjects with high socioeconomic status, rural dwellers, young women) and modifiable risk factors (physical inactivity) can be targeted. Subjects quitting smoking should receive additional weight-loss support in order that the numerous health benefits of cessation are not reduced by increasing BMI. Centrally obese subjects should be targeted in campaigns."
+featured: false
+publication: "*BMC Obesity*"
+tags: ["#nosource"]
+---
+

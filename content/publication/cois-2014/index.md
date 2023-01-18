@@ -1,0 +1,13 @@
+---
+title: "Analysing the socioeconomic determinants of hypertension in South Africa: a structural equation modelling approach"
+date: 2014-05-01
+publishDate: 2023-01-18T11:26:13.642627Z
+authors: ["Annibale Cois", "Rodney Ehrlich"]
+publication_types: ["2"]
+abstract: "BACKGROUND: Epidemiological research has long observed a varying prevalence of hypertension across socioeconomic strata. However, patterns of association and underlying causal mechanisms are poorly understood in sub-Saharan Africa. Using education and income as indicators, we investigated the extent to which socioeconomic status is linked to blood pressure in the first wave of the National Income Dynamics Study–a South African longitudinal study of more than 15,000 adults–and whether bio-behavioural risk factors mediate the association. METHODS: In a cross-sectional analysis, structural equation modelling was employed to estimate the effect of socioeconomic status on systolic and diastolic blood pressure and to assess the role of a set of bio-behavioural risk factors in explaining the observed relationships. RESULTS: After adjustment for age, race and antihypertensive treatment, higher education and income were independently associated with higher diastolic blood pressure in men. In women higher education predicted lower values of both diastolic and systolic blood pressure while higher income predicted lower systolic blood pressure. In both genders, body mass index was a strong mediator of an adverse indirect effect of socioeconomic status on blood pressure. Together with physical exercise, alcohol use, smoking and resting heart rate, body mass index therefore contributed substantially to mediation of the observed relationships in men. By contrast, in women unmeasured factors played a greater role. CONCLUSION: In countries undergoing epidemiological transition, effects of socioeconomic status on blood pressure may vary by gender. In women, factors other than those listed above may have substantial role in mediating the association and merit investigation."
+featured: false
+publication: "*BMC public health*"
+tags: ["*Blood Pressure", "*Educational Status", "*Income", "*Social Class", "Adolescent", "Adult", "Aged", "Alcohol Drinking/adverse effects", "Body Mass Index", "Continental Population Groups", "Cross-Sectional Studies", "Female", "Humans", "Hypertension/epidemiology/*etiology", "Longitudinal Studies", "Male", "Middle Aged", "Prevalence", "Risk Factors", "Sex Factors", "Smoking/adverse effects", "Socioeconomic Factors", "South Africa/epidemiology", "Young Adult"]
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4021547/"
+---
+
