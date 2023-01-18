@@ -1,0 +1,12 @@
+---
+title: "Self-Reported Side Effects and Adherence to Antiretroviral Therapy in HIV-Infected Pregnant Women under Option B+: A Prospective Study."
+date: 2016-01-01
+publishDate: 2023-01-18T11:26:14.058803Z
+authors: ["Tamsin Phillips", "Annibale Cois", "Robert H. Remien", "Claude A. Mellins", "James A. McIntyre", "Greg Petro", "Elaine J. Abrams", "Landon Myer"]
+publication_types: ["2"]
+abstract: "BACKGROUND: Antiretroviral therapy (ART) regimens containing efavirenz (EFV) are recommended as part of universal ART for pregnant and breastfeeding women. EFV may have appreciable side effects (SE), and ART adherence in pregnancy is a major concern, but little is known about ART SE and associations with adherence in pregnancy. METHODS: We investigated the distribution of patient-reported SE (based on Division of AIDS categories) and the association of SE with missed ART doses in a cohort of 517 women starting EFV+3TC/FTC+TDF during pregnancy. In analysis, SE were considered in terms of their overall frequency, by systems category, and by latent classes. RESULTS: Overall 97% of women reported experiencing at least one SE after ART initiation, with 48% experiencing more than five SE. Gastrointestinal, central nervous system, systemic and skin SE were reported by 81%, 85%, 79% and 31% of women, respectively, with considerable overlap across groups. At least one missed dose was reported by 32% of women. In multivariable models, ART non-adherence was associated with systemic SE compared to other systems categories, and measures of the overall burden of SE experienced were most strongly associated with missed ART doses. CONCLUSION: These data demonstrate very high levels of SE in pregnant women initiating EFV-based ART and a strong association between SE burden and ART adherence. ART regimens with reduced SE profiles may enhance adherence, and as countries expand universal ART for all adult patients, counseling must include preparation for ART SE."
+featured: false
+publication: "*PloS one*"
+tags: ["Adult", "Female", "Humans", "Young Adult", "Prospective Studies", "*Self Report", "Alkynes", "Anti-HIV Agents/*adverse effects/*therapeutic use", "Benzoxazines/adverse effects/therapeutic use", "Cyclopropanes", "HIV Infections/*drug therapy", "Infectious/*drug therapy", "Patient Compliance/*statistics & numerical data", "Pregnancy", "Pregnancy Complications"]
+---
+
