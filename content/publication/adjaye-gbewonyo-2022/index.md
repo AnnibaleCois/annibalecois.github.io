@@ -10,5 +10,6 @@ publication: "*BMJ Open*"
 tags: ["epidemiology", "public health", "cardiac epidemiology", "social medicine"]
 url_pdf: "https://bmjopen.bmj.com/content/12/3/e061034"
 doi: "10.1136/bmjopen-2022-061034"
+projects: ["expose"]
 ---
 

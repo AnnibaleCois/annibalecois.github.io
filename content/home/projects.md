@@ -38,8 +38,8 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "Modelling"
   
   [[content.filter_button]]
-    name = "Surveys"
-    tag = "Surveys"
+    name = "Measurement"
+    tag = "Measurement"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

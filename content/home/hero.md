@@ -5,13 +5,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "Home"
 name = "Annibale Cois"
 occupation = "Researcher in Global Health"
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "transparent.png"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,7 +29,10 @@ hero_media = "transparent.png"
   # Background image.
   image = "background_2.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
+  image_author = "Shubham Dhage"
+  image_author_link = "https://unsplash.com/@theshubhamdhage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  image_ref = "Unsplash"
+  image_ref_link = "https://unsplash.com/photos/WzKi0E3ZFRc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
   # Text color (true=light or false=dark).
   text_color_light = true
 
