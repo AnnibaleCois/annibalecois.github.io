@@ -1,5 +1,5 @@
 ---
-title: Consult
+title: Consulting & data analysis
 date: "2018-06-28T00:00:00+01:00"
 draft: true
 share: false
@@ -7,22 +7,21 @@ share: false
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "consult.png"
+  image: ""
 ---
+![Consulting image](/img/consult.png)
 
-![Consulting image](consult.png)
+Consulting services for the following types of activities: 
 
-Epidemiological/statistical consulting services for the following types of activities: 
-
-* **Study designs** and **data collection methods**  
+* **Epidemiological study design** and **data collection methods**  
 * **Sampling** (design, sample size calculation), 
-* **Sampling weights** and **calibration**
+* Calculation and calibration/recalibration of **Sampling weights** 
 * **Statistical data analysis**
     * Cross-sectional and longitudinal analyses
+    * Survey data 
     * Structural Equation Modelling and Latent Class Analysis
     * Bayesian multilevel models  
 * Support with **data interpretation**.
 
 Please, make contact for availability and fees.
 
-...

@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Stellenbosch University, Department of Global Health"
   company_url = "https://www.sun.ac.za"
   location = "Cape Town, South Africa"
-  date_start = "2021-01-04"
+  date_start = "2021-04-01"
   date_end = ""
 [[experience]]
   title = "Honorary Senior Lecturer"

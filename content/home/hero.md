@@ -11,7 +11,7 @@ occupation = "Researcher in Global Health"
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "xx"
 
 [design.background]
   # Apply a background color, gradient, or image.
