@@ -33,7 +33,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://event.webinarjam.com/replay/447/gqknqaqkclwa5khz333"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,4 +54,6 @@ projects:
 math: false
 ---
 
-Other material: [Invite](docs/ma2022_invite.pdf)
+Other material: 
+[Invite](docs/ma2022_invite.pdf)
+[Seminar recording](https://www.medicalacademic.co.za/post-summary/?post_refered=31399)
