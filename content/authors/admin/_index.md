@@ -75,7 +75,6 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-![SU logo](../../img/su_banner.png)
 
 Annibale Cois is a researcher in the [Department of Global Health](https://www.sun.ac.za/english/faculty/healthsciences/global-health) at Stellenbosch University, and an Honorary Senior Lecturer in the [Division of Epidemiology and Biostatistics](http://www.publichealth.uct.ac.za/phfm_epidemiology-&-biostatistics) at the University of Cape Town. 
 
