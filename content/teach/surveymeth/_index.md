@@ -1,25 +1,8 @@
 ---
-# Course title, summary, and position.
-linktitle: "   "
-summary: "   "
-weight: 1
-
-# Page metadata.
-title: "    "  
-date: "2023-05-04T00:00:00Z"
-lastmod: "2023-06-01T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu: 
-  surveymeth:
-    name: Survey Methods
-    weight: 1
-
+title: Survey Methods
+date: "2018-06-28T00:00:00+01:00"
+draft: false
+share: true
 ---
 
 ![Course Header](people.jpg)
