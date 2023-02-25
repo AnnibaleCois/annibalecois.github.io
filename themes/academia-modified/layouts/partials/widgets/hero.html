@@ -1,0 +1,59 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $bg := $page.Params.design.background }}
+    <H1 style ="font-weight: 800; color: white; margin-top:30px;">{{$page.Params.name}}<span style = "font-size: 50%;">, MEng, MPH, Phd</span></h1>
+    <p>{{$page.Params.occupation}}</p>
+{{ if $page.Params.hero_media }}
+<div style = "position: static; font-size: 140%;" >
+  <a href="https://orcid.org/0000-0002-7014-6510"><i class = "ai ai ai-orcid" style = "color:#A5Cd39;"></i></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=uSTj-XcAAAAJ&hl=en"><i class = "fa fas fa-graduation-cap" style = "color:#AAAAAA;"></i></a>&nbsp;&nbsp;
+  <a href="https://www.semanticscholar.org/author/Annibale-Cois/6402028"><i class = "ai ai-semantic-scholar" style = "color:#AAAAAA;"></i></a>&nbsp;&nbsp;
+  <a href="https://github.com/annibalecois"><i class = "fab fab fa-github" style = "color:#AAAAAA;"></i></a>&nbsp;&nbsp;
+</div>
+<div class="row">
+  <div class="col-md-6 order-md-1 text-center text-md-left align-self-center">
+{{ end }}
+    <div style = "height: 170px;"></div>
+    {{/* Call-to-action link */}}
+    {{ if $page.Params.btn.url }}
+      {{ $pack := or $page.Params.btn.icon_pack "fas" }}
+      {{ $pack_prefix := $pack }}
+      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+        {{ $pack_prefix = "fa" }}
+      {{ end }}
+      {{ $link := $page.Params.btn.url }}
+      {{ $scheme := (urls.Parse $link).Scheme }}
+      {{ $target := "" }}
+      {{ if not $scheme }}
+        {{ $link = $link | relLangURL }}
+      {{ else if in (slice "http" "https") $scheme }}
+        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+      {{ end }}
+    <p class="mt-4">
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg  page-scroll">{{ if $page.Params.btn.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.btn.icon }} mr-2" aria-hidden="true"></i>{{end}}{{ $page.Params.btn.label | markdownify | emojify | safeHTML }}</a>
+
+      {{/* Alternative Call-to-action link */}}
+      {{ if $page.Params.btn_alt.url }}
+        {{ $link := $page.Params.btn_alt.url }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = $link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn btn-lg {{if $bg.text_color_light}}btn-outline-light{{else}}btn-outline-primary{{end}} page-scroll">{{ if $page.Params.btn_alt.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.btn_alt.icon }} mr-2" aria-hidden="true"></i>{{end}}{{ $page.Params.btn_alt.label | markdownify | emojify | safeHTML }}</a>
+      {{ end }}
+    </p>
+    {{ end }}
+    <div style = "text-align: right; position: relative; top: 30px; left:800px; font-size: 50%; color: #888888">
+      Image by <a href="{{ $bg.image_author_link}} ">{{ $bg.image_author}}</a> on <a  href="{{ $bg.image_ref_link}}">{{ $bg.image_ref}}</a></div>
+    
+  {{/* Hero image */}}
+  {{ if $page.Params.hero_media }}
+  </div>
+  <div class="col-10 mx-auto col-md-6 order-md-2 hero-media">
+    <img class="hero-img img-fluid" src="{{ printf "img/%s" $page.Params.hero_media | relURL }}" alt="">
+  </div>
+</div>
+{{ end }}
