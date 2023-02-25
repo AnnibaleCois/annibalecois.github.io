@@ -7,7 +7,7 @@ share: true
 
 ## Courses  
   
-* **[Survey Methods](/teach/surveymeth/)**  
+* **[Survey Methods](surveymeth/)**  
 Understanding population surveys as a research methods in the health sciences.    
  
 <br/>   
