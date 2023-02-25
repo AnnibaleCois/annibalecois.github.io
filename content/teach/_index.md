@@ -2,6 +2,7 @@
 title: "Teaching & Supervision"
 draft: false
 share: true
+menu: teach
 ---
 ![Students](teach.jpg)
 
