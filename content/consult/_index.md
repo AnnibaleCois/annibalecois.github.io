@@ -1,10 +1,10 @@
 ---
 title: Consulting & data analysis
 date: "2018-06-28T00:00:00+01:00"
-draft: true
-share: false
+draft: false
+share: true
 ---
-![Consulting image](/img/consult.png)
+![Consulting image](consult.png)
 
 Consulting services for the following types of activities: 
 
