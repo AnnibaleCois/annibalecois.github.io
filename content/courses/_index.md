@@ -2,6 +2,7 @@
 title: ""
 layout: docs  # Do not modify.
 ---
-![Greenboard](/img/teach.jpg)
+![Students](/img/teach.jpg)
 
 # Courses
+
