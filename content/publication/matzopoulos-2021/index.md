@@ -9,5 +9,6 @@ featured: false
 publication: "*Preprint*"
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3854745"
 doi: "10.2139/ssrn.3854745"
+projects: ["cra"]
 ---
 

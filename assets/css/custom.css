@@ -10,7 +10,7 @@
   visibility: visible;
   width: 120px;
   background-color: red;
-  color: #fff;
+  color: #000;
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
@@ -24,6 +24,15 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+
+
+
+/* Change spacing between sections */
+
+.home-section {
+    padding: 40px 0 40px 0;
+  }
 
 
 /*<div class="tooltip">Hover over me

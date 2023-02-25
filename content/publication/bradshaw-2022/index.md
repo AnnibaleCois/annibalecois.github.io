@@ -10,5 +10,6 @@ publication: "*South African Medical Journal*"
 tags: ["health promotion", "burden of disease"]
 url_pdf: "https://samajournals.co.za/index.php/samj/article/view/208"
 doi: "10.7196/SAMJ.2022.v112i8b.16648"
+projects: ["cra"]
 ---
 

@@ -10,5 +10,6 @@ publication: "*South African Medical Journal*"
 tags: ["High BMI"]
 url_pdf: "https://samajournals.co.za/index.php/samj/article/view/211"
 doi: "10.7196/SAMJ.2022.v112i8b.16488"
+projects: ["cra"]
 ---
 

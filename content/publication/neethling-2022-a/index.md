@@ -10,5 +10,6 @@ publication: "*South African Medical Journal*"
 tags: ["heart disease"]
 url_pdf: "https://samajournals.co.za/index.php/samj/article/view/217"
 doi: "10.7196/SAMJ.2022.v112i8b.1648"
+projects: ["cra"]
 ---
 

@@ -10,5 +10,6 @@ publication: "*South African Medical Journal*"
 tags: ["diarrhoeal disease", "health surveys"]
 url_pdf: "https://samajournals.co.za/index.php/samj/article/view/210"
 doi: "10.7196/SAMJ.2022.v112i8b.16498"
+projects: ["cra"]
 ---
 

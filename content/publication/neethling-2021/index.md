@@ -9,5 +9,6 @@ featured: false
 publication: "*International Journal of Epidemiology*"
 url_pdf: "https://doi.org/10.1093/ije/dyab168.478"
 doi: "10.1093/ije/dyab168.478"
+projects: ["cra"]
 ---
 

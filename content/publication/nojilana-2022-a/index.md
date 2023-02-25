@@ -10,5 +10,6 @@ publication: "*South African Medical Journal*"
 tags: ["cardiovascular disease", "Hypretension"]
 url_pdf: "https://samajournals.co.za/index.php/samj/article/view/203"
 doi: "10.7196/SAMJ.2022.v112i8b.16490"
+projects: ["cra"]
 ---
 

@@ -10,5 +10,6 @@ publication: "*South African Medical Journal*"
 tags: ["acute respiratory infections", "Air pollution", "cardiopulmonary disease"]
 url_pdf: "https://samajournals.co.za/index.php/samj/article/view/215"
 doi: "10.7196/SAMJ.2022.v112i8b.16483"
+projects: ["cra"]
 ---
 

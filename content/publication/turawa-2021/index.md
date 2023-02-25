@@ -9,5 +9,6 @@ featured: false
 publication: "*International Journal of Environmental Research and Public Health*"
 url_pdf: "https://www.mdpi.com/1660-4601/18/23/12799"
 doi: "10.3390/ijerph182312799"
+projects: ["cra"]
 ---
 

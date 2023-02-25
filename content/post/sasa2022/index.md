@@ -1,11 +1,12 @@
 ---
 title: 'SASA Conference 2022'
 subtitle: 'South African Statistical Association '
-summary: Create a beautifully simple website in under 10 minutes.
+summary: The annual conference of the South African Statistical Association.
 authors:
 - admin
 tags:
-- conferences
+- Conference
+- Modelling
 categories: []
 date: "2022-11-30T00:00:00Z"
 lastmod: "2022-12-10T00:00:00Z"
@@ -16,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -25,33 +26,23 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-
-# Set captions for image gallery.
-gallery_item:
-- album: gallery
-  caption: Gala dinner
-  image: theme-default.png
-- album: gallery
-  caption: Ocean
-  image: theme-ocean.png
-- album: gallery
-  caption: Forest
-  image: theme-forest.png
-- album: gallery
-  caption: Dark
-  image: theme-dark.png
-- album: gallery
-  caption: Apogee
-  image: theme-apogee.png
-- album: gallery
-  caption: 1950s
-  image: theme-1950s.png
-- album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
-- album: gallery
-  caption: Strawberry
-  image: theme-strawberry.png
+projects: ["exposures"]
 ---
+
+I have participated to the 63rd edition of the annual conference of the South African Statistical Association (SASA), of which I am a member.  
+
+The conference was held in George (Western Cape Province) with good participation and high level of presentations.
+
+I have contributed with an oral presentation, which you can find here: [annibalecois.github.io/metaregression](https://annibalecois.github.io/metaregression/#1)  
+
+We also had some fun: 
+
+
+|![Annibale 1](sasa1.jpg)|![Annibale 2](sasa2.jpg)|![Relaxing](sasa3.jpg)|![Gala Dinner](sasa4.jpg)|
+|:-:|:-:|:-:|:-:|
+  
+
+You can look at other pictures in the [SASA website:](https://www.sastat.org/events/conferences/sasa2022/photos). 
+<br/>
+
 

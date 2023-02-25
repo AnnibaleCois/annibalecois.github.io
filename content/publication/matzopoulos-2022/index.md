@@ -9,5 +9,6 @@ featured: false
 publication: "*South African Medical Journal*"
 tags: ["HIV", "TB"]
 url_pdf: "https://samajournals.co.za/index.php/samj/article/view/223"
+projects: ["cra"]
 ---
 

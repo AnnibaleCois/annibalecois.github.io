@@ -9,6 +9,6 @@ featured: false
 publication: "*Population Health Metrics*"
 url_pdf: "https://doi.org/10.1186/s12963-021-00270-3"
 doi: "10.1186/s12963-021-00270-3"
-projects: ["exposures"]
+projects: ["exposures","cra"]
 ---
 

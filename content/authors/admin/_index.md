@@ -57,6 +57,9 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=uSTj-XcAAAAJ&hl=en
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Annibale-Cois/6402028
 - icon: github
   icon_pack: fab
   link: https://github.com/annibalecois
@@ -80,7 +83,7 @@ Annibale Cois is a researcher in the [Department of Global Health](https://www.s
 
 His current research focuses on the epidemiology of non-communicable diseases in sub-Saharan Africa, the analysis of data from large scale population surveys and the application of modelling techniques for the joint analysis of heterogeneous data sources.  
 
-Annibale is the Convenor of the [Survey Methods](https://shortcourses.sun.ac.za/courses/c-10/2022-5915.html) module for students enrolled in the MPhil in Health Systems programme at Stellenbosch University and teaches [Advanced statistical methods]() for students in the Master of Public Health at the University of Cape Town.
+Annibale is the Convenor of the **Survey Methods** module for students enrolled in the MPhil in Health Systems programme at Stellenbosch University and teaches **Advanced statistical methods** for students in the Master of Public Health at the University of Cape Town.
 
 
 
