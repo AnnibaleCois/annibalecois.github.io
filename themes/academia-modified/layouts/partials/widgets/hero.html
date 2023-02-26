@@ -46,8 +46,7 @@
       {{ end }}
     </p>
     {{ end }}
-    <div style = "text-align: right; position: relative; top: 30px; left:800px; font-size: 50%; color: #888888">
-      Image by <a href="{{ $bg.image_author_link}} ">{{ $bg.image_author}}</a> on <a  href="{{ $bg.image_ref_link}}">{{ $bg.image_ref}}</a></div>
+    
     
   {{/* Hero image */}}
   {{ if $page.Params.hero_media }}
@@ -56,4 +55,7 @@
     <img class="hero-img img-fluid" src="{{ printf "img/%s" $page.Params.hero_media | relURL }}" alt="">
   </div>
 </div>
+
 {{ end }}
+<div style = "text-align: right; position: relative; top: 30px; left:0; font-size: 50%; color: #888888">
+      Image by <a href="{{ $bg.image_author_link}} ">{{ $bg.image_author}}</a> on <a  href="{{ $bg.image_ref_link}}">{{ $bg.image_ref}}</a></div>

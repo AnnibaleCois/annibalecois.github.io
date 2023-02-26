@@ -24,7 +24,7 @@ The website is built with [Hugo](https://gohugo.io/) static website generator an
 
 The content of the website is **personal** responsibility of [Annibale Cois](mailto:acois@sun.ac.za).   
 
-**My current employer (Stellenbosch University) in not involved in the management of this website and does not control or endorse its content in any way.** 
+**Neither my current employer (Stellenbosch University) nor the other Institutions that are affiliated with are involved in the management of this website and do not control or endorse its content in any way.** 
 
 I have made any effort to ensure that all images, graphics and other elements in the website not directly produced by me are not protected by copyright or I have the authorisation of the copyright holder to use them.    
   
