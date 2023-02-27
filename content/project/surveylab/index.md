@@ -21,9 +21,13 @@ Th current version of the SurveyLab is freely accessible at the URL [https://sur
 You can download the user guide in PDF format from [here](SurveyLab_Manual_09.pdf).  
 
 These 4 **video tutorials** will give you an idea of what you can do with the SurveyLab:
-
-|[![Tutorial 1](youtube1.png)](https://youtu.be/_2g2gJ1vNOA)|[![Tutorial 1](youtube2.png)](https://youtu.be/_2g2gJ1vNOA)|[![Tutorial 1](youtube3.png )](https://youtu.be/OPlPqagPqvk)|[![Tutorial 1](youtube4.png)](https://youtu.be/TSHZD4gjebQ)|
-|:-:|:-:|:-:|:-:|
+  
+![Tutorials](youtube.png)
+* **[Tutorial 1: Explore](https://youtu.be/_2g2gJ1vNOA)**   
+* **[Tutorial 2: Design](https://youtu.be/_2g2gJ1vNOA)**  
+* **[Tutorial 3: Sample](https://youtu.be/OPlPqagPqvk)**  
+* **[Tutorial 4: Survey](https://youtu.be/TSHZD4gjebQ)**   
+&nbsp;  
 
 The initial development of the SurveyLAb has been funded by a grant from Stellenbosch University, [Fund for Innovation and Research into Learning and Teaching (FINLO)](http://www.sun.ac.za/english/learning-teaching/ctl/t-l-awards-and-grants/firlt). 
 
