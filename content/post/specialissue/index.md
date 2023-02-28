@@ -1,7 +1,7 @@
 ---
 title: "The global epidemic of cardiometabolic disease: Risks, trends, explanations, and implications"
 subtitle: Call for papers
-summary: Learn how to blog in academia using Jupyter notebooks
+summary: A special issue of the International Journal of General medicine
 authors:
 - admin
 tags: 
@@ -54,7 +54,7 @@ gallery_item:
   image: theme-strawberry.png
 ---
 
-Together with Dr. Kafui Adjaye-Gbewonyo and Prof Andre-Pascal Kengne, I am the *guest advisor* of a *special article collection* in the International Journal of General Medicine.
+Together with Dr. Kafui Adjaye-Gbewonyo and Prof Andre-Pascal Kengne, I am the *guest editor* of a *special article collection* in the International Journal of General Medicine.
 
 ### The global epidemic of cardiometabolic disease: Risks, trends, explanations, and implications 
 

@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_end = ""
 [[experience]]
   title = "Honorary Senior Lecturer"
-  company = "University of Cape Town, Division of Epidemiology & Biostatistics, School of public Health"
+  company = "University of Cape Town, Division of Epidemiology & Biostatistics, School of Public Health"
   company_url = "https://www.uct.ac.za"
   location = "Cape Town, South Africa"
   date_start = "2019-01-01"

@@ -36,7 +36,7 @@ To train candidates
 
 ## Format
 
-The course will be offered in a online format, with weekly contact sessions, individual engagement with the reading material provided, and online interaction with the [SurveyLab virtual environment](https://surveylab.sun.ac.za). The latter includes a simulated human population of 40000 individuals which can be surveyed and analysed and allows the students to experiment with the concepts and techniques taught in the course, by designing virtual surveys, sampling the population according to their plan, and conducting virtual interviews to collect the data of interest that they can then analyse and interpret.
+The course will be offered online, with weekly contact sessions, individual engagement with the reading material provided, and online interaction with the [SurveyLab virtual environment](https://surveylab.sun.ac.za). The latter includes a simulated human population of 40000 individuals which can be surveyed and analysed and allows the students to experiment with the concepts and techniques taught in the course, by designing virtual surveys, sampling the population according to their plan, and conducting virtual interviews to collect the data of interest that they can then analyse and interpret.
 
 Example course materials:
 

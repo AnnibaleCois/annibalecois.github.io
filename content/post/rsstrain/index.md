@@ -1,7 +1,7 @@
 ---
 title: 'Bayesian Analysis using Stan'
 subtitle: 'Training course at the Royal Statistical Society in London'
-summary: "A Training course on BAyesian analysis at the Royal Statistical Society in London"
+summary: "A Training course on Bayesian analysis at the Royal Statistical Society in London"
 authors:
 - admin
 tags:
