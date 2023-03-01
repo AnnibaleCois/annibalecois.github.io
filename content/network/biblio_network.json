@@ -1,0 +1,3270 @@
+{
+    "config": {
+        "terminology": {
+            "item": "Researcher",
+            "items": "Researchers",
+            "link": "Co-authorship link",
+            "links": "Co-authorship links",
+            "link_strength": "Co-authorships",
+            "total_link_strength": "Total co-authorships"
+        },
+        "templates": {
+            "item_description": "<div class='description_heading'>Researcher</div><div class='description_label'><a class='description_url' href='https://app.dimensions.ai/discover/publication?and_facet_researcher={id}' target='_blank'>{label}</a></div><div class='description_text'>{organization}</div>",
+            "link_description": "<div class='description_heading'>Co-authorship link</div><div class='description_label'><a class='description_url' href='https://app.dimensions.ai/discover/publication?and_facet_researcher={source_id}' target='_blank'>{source_label}</a></div><div class='description_text'>{source_organization}</div><div class='description_label'><a class='description_url' href='https://app.dimensions.ai/discover/publication?and_facet_researcher={target_id}' target='_blank'>{target_label}</a></div><div class='description_text'>{target_organization}</div>"
+        },
+        "styles": {
+            "description_heading": "color: #757575; font-weight: 600;"
+        }
+    },
+    "network": {
+        "items": [
+            {
+                "id": "ur.01003565521.49",
+                "label": "Wright, Caradee Yael",
+                "organization": "South African Medical Research Council",
+                "x": -0.6030086899223748,
+                "y": -0.2719012582988838,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 5
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 2.5
+                }
+            },
+            {
+                "id": "ur.01005014660.85",
+                "label": "Uys, Ronelle",
+                "organization": "Tygerberg Hospital",
+                "x": 1.1241289745606209,
+                "y": -0.21547004147235066,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.010111555247.53",
+                "label": "Bassingthwaighte, Mairi",
+                "organization": "Chris Hani Baragwanath Hospital",
+                "x": 0.8314866514241683,
+                "y": 0.06989289377654796,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.01012127621.38",
+                "label": "Kengne, Andre Pascal",
+                "organization": "South African Medical Research Council",
+                "x": -0.9782331381545012,
+                "y": -0.3684662180482912,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 15
+                },
+                "scores": {
+                    "Avg. publication year": 2021.5,
+                    "Avg. citations": 7.5
+                }
+            },
+            {
+                "id": "ur.01025063441.61",
+                "label": "Neethling, Ian Garth",
+                "organization": "South African Medical Research Council",
+                "x": -0.7281522820820382,
+                "y": -0.10071453157231751,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 10,
+                    "Citations": 16
+                },
+                "scores": {
+                    "Avg. publication year": 2021.9,
+                    "Avg. citations": 1.6
+                }
+            },
+            {
+                "id": "ur.010561041221.54",
+                "label": "Vellios, Nicole",
+                "organization": "University of Cape Town",
+                "x": -0.7322278510680609,
+                "y": 0.24149154333621056,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 5
+                },
+                "scores": {
+                    "Avg. publication year": 2021.6666666666667,
+                    "Avg. citations": 1.6666666666666667
+                }
+            },
+            {
+                "id": "ur.01075577020.39",
+                "label": "Levitt, Naomi Sharlene",
+                "organization": "University of Cape Town",
+                "x": -0.880585468591874,
+                "y": -0.41356995460330764,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 15
+                },
+                "scores": {
+                    "Avg. publication year": 2021.5,
+                    "Avg. citations": 7.5
+                }
+            },
+            {
+                "id": "ur.011037301023.15",
+                "label": "Vermeulen, Johani",
+                "organization": "Port Elizabeth Provincial Hospital",
+                "x": 1.084804087226291,
+                "y": -0.08785048928850431,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.011041701322.00",
+                "label": "Pacella, Rosana E",
+                "organization": "University of Greenwich",
+                "x": -0.7565423028348308,
+                "y": 0.09098278380818982,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 12,
+                    "Citations": 20
+                },
+                "scores": {
+                    "Avg. publication year": 2021.8333333333333,
+                    "Avg. citations": 1.6666666666666667
+                }
+            },
+            {
+                "id": "ur.01112372452.72",
+                "label": "Schneider, Marguerite",
+                "organization": "University of Cape Town",
+                "x": 0.04924432032259369,
+                "y": -0.5171725009252893,
+                "cluster": 6,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 49
+                },
+                "scores": {
+                    "Avg. publication year": 2019,
+                    "Avg. citations": 24.5
+                }
+            },
+            {
+                "id": "ur.01127630520.35",
+                "label": "Probst, Charlotte",
+                "organization": "Centre for Addiction and Mental Health",
+                "x": -0.6109724417505717,
+                "y": 0.2895652727712588,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 4
+                },
+                "scores": {
+                    "Avg. publication year": 2021.5,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.011361750345.25",
+                "label": "Zyl, Anel Van",
+                "organization": "Stellenbosch University",
+                "x": 0.9905939956330911,
+                "y": 0.1987651177199524,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.3333333333333333
+                }
+            },
+            {
+                "id": "ur.01136333017.87",
+                "label": "Nannan, Nadine",
+                "organization": "South African Medical Research Council",
+                "x": -0.4977792555231879,
+                "y": -0.18915375530908907,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 4
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.01153112706.28",
+                "label": "Day, Candy",
+                "organization": "Health Systems Trust",
+                "x": 0.1281590280756144,
+                "y": -0.008949825347166405,
+                "cluster": 5,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 92
+                },
+                "scores": {
+                    "Avg. publication year": 2018,
+                    "Avg. citations": 46
+                }
+            },
+            {
+                "id": "ur.01213650013.48",
+                "label": "Adjaye-Gbewonyo, Kafui",
+                "organization": "University of Greenwich",
+                "score<Avg. citations>": null,
+                "x": -0.0401493103230828,
+                "y": -0.12721130994757193,
+                "cluster": 5,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 0
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": null
+                }
+            },
+            {
+                "id": "ur.01230156261.39",
+                "label": "Matzopoulos, Richard Gregory",
+                "organization": "South African Medical Research Council",
+                "x": -0.5047833764309884,
+                "y": 0.1704397135188636,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 7,
+                    "Citations": 11
+                },
+                "scores": {
+                    "Avg. publication year": 2021.5714285714287,
+                    "Avg. citations": 1.5714285714285714
+                }
+            },
+            {
+                "id": "ur.01234140422.88",
+                "label": "Geel, Jennifer Ann",
+                "organization": "University of the Witwatersrand",
+                "x": 1.011096928918063,
+                "y": -0.1793227206216849,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.01241442413.85",
+                "label": "Donald, Kirsten Ann Mary",
+                "organization": "University of Cape Town",
+                "x": 0.9092714040922588,
+                "y": -0.15486490732515054,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.01244110506.80",
+                "label": "Nojilana, Beatrice",
+                "organization": "South African Medical Research Council",
+                "x": -0.7690339076971402,
+                "y": -0.18954524951254914,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 6,
+                    "Citations": 9
+                },
+                "scores": {
+                    "Avg. publication year": 2021.8333333333333,
+                    "Avg. citations": 1.5
+                }
+            },
+            {
+                "id": "ur.01245265744.66",
+                "label": "Van-Wyk, Victoria Pillay",
+                "organization": "South African Medical Research Council",
+                "x": -0.725591498419407,
+                "y": -0.3218939097850956,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 6,
+                    "Citations": 11
+                },
+                "scores": {
+                    "Avg. publication year": 2022.1666666666667,
+                    "Avg. citations": 1.8333333333333333
+                }
+            },
+            {
+                "id": "ur.012563011617.26",
+                "label": "Myer, Landon B",
+                "organization": "University of Cape Town",
+                "x": 0.11148202597835861,
+                "y": 0.5216104532751539,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 13
+                },
+                "scores": {
+                    "Avg. publication year": 2019.3333333333333,
+                    "Avg. citations": 4.333333333333333
+                }
+            },
+            {
+                "id": "ur.01263760144.06",
+                "label": "Groenewald, Pam J",
+                "organization": "South African Medical Research Council",
+                "x": -0.6460471353469912,
+                "y": -0.02531353012573397,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 4
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.01302041100.33",
+                "label": "Joubert, Jané D",
+                "organization": "South African Medical Research Council",
+                "x": -0.6376357149511428,
+                "y": 0.09860673657471056,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 6
+                },
+                "scores": {
+                    "Avg. publication year": 2021.6666666666667,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.013143210315.31",
+                "label": "Awotiwon, Oluwatoyin Folashade",
+                "organization": "South African Medical Research Council",
+                "x": -0.8594304561857222,
+                "y": -0.10913760572632086,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 7,
+                    "Citations": 19
+                },
+                "scores": {
+                    "Avg. publication year": 2021.857142857143,
+                    "Avg. citations": 2.7142857142857144
+                }
+            },
+            {
+                "id": "ur.01317614453.65",
+                "label": "Rowe, Biance",
+                "organization": "University of the Witwatersrand",
+                "x": 0.8813521699807426,
+                "y": -0.04087589154137964,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.01323325533.71",
+                "label": "Van Wyk, Brian Eduard",
+                "organization": "University of the Western Cape",
+                "x": -1.072342288517745,
+                "y": -0.21785700389100704,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 14
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 3.5
+                }
+            },
+            {
+                "id": "ur.01344643247.77",
+                "label": "Cairncross, Eugene K",
+                "organization": "South African Medical Research Council",
+                "x": -0.620460183738479,
+                "y": -0.16268454306323638,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 9
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 3
+                }
+            },
+            {
+                "id": "ur.013606335417.21",
+                "label": "Wyk, Victoria Pillay-Van",
+                "organization": "South African Medical Research Council",
+                "x": -0.9053215990517968,
+                "y": 0.012138746658444676,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 11,
+                    "Citations": 42
+                },
+                "scores": {
+                    "Avg. publication year": 2021.6363636363637,
+                    "Avg. citations": 3.8181818181818183
+                }
+            },
+            {
+                "id": "ur.01362132241.48",
+                "label": "Davidson, Alan",
+                "organization": "Red Cross War Memorial Children's Hospital",
+                "x": 1.2026930700375174,
+                "y": -0.12341492705102482,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.01367777120.51",
+                "label": "Cois, Annibale",
+                "organization": "Stellenbosch University",
+                "x": -0.0791673641683472,
+                "y": 0.05159285830083604,
+                "cluster": 5,
+                "weights": {
+                    "Publications": 38,
+                    "Citations": 331
+                },
+                "scores": {
+                    "Avg. publication year": 2020.2894736842106,
+                    "Avg. citations": 8.710526315789474
+                }
+            },
+            {
+                "id": "ur.01370633753.47",
+                "label": "Pillay-Van Wyk, Victoria",
+                "organization": "South African Medical Research Council",
+                "x": -0.8526943163621952,
+                "y": 0.2192769603650351,
+                "cluster": 7,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 2
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 1
+                }
+            },
+            {
+                "id": "ur.014001661367.74",
+                "label": "Naidu, Gita",
+                "organization": "University of the Witwatersrand",
+                "x": 0.9532199692284223,
+                "y": 0.06393434063757247,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.014417732745.99",
+                "label": "Plessis, Jan Du",
+                "organization": "University of the Free State",
+                "score<Avg. citations>": null,
+                "x": 1.102784763426898,
+                "y": 0.19958129251074908,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 0
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": null
+                }
+            },
+            {
+                "id": "ur.015155670243.56",
+                "label": "Garman, Emily Claire",
+                "organization": "University of Cape Town",
+                "x": 0.09907241251258028,
+                "y": -0.47334372982474104,
+                "cluster": 6,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 71
+                },
+                "scores": {
+                    "Avg. publication year": 2019,
+                    "Avg. citations": 23.666666666666668
+                }
+            },
+            {
+                "id": "ur.015270000647.10",
+                "label": "Thomas, Karla",
+                "organization": "Frere Hospital",
+                "x": 0.7922130183452656,
+                "y": -0.13988418338483874,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.015541402167.47",
+                "label": "Abdelatif, Nada A",
+                "organization": "South African Medical Research Council",
+                "x": -1.0067477568093561,
+                "y": -0.03707792379625631,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 4
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 1.3333333333333333
+                }
+            },
+            {
+                "id": "ur.016121557502.19",
+                "label": "Parry, Charles D H",
+                "organization": "South African Medical Research Council",
+                "x": -0.7018626298704987,
+                "y": 0.3667001821743049,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 4
+                },
+                "scores": {
+                    "Avg. publication year": 2021.5,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.016124067567.03",
+                "label": "Du Plessis, Jan",
+                "organization": "University of the Free State",
+                "x": 1.022987493470616,
+                "y": -0.31720727339333954,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 2
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.016555476757.78",
+                "label": "Heerden, Jaques Van",
+                "organization": "Antwerp University Hospital",
+                "x": 0.8733570198920126,
+                "y": 0.1937018084658422,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 3,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.3333333333333333
+                }
+            },
+            {
+                "id": "ur.016603630271.13",
+                "label": "Roomaney, Rifqah Abeeda",
+                "organization": "South African Medical Research Council",
+                "x": -0.8653987367213829,
+                "y": -0.2591893472401942,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 11,
+                    "Citations": 27
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 2.4545454545454546
+                }
+            },
+            {
+                "id": "ur.0575543232.52",
+                "label": "Büchner, Ané",
+                "organization": "University of Pretoria",
+                "x": 0.7605888037699476,
+                "y": -0.024041845295531043,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.0604473400.49",
+                "label": "Frazier, Lindsay A",
+                "organization": "Dana-Farber Cancer Institute",
+                "score<Avg. citations>": null,
+                "x": 1.1915263242159504,
+                "y": 0.11717966594937863,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 0
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": null
+                }
+            },
+            {
+                "id": "ur.0610601051.43",
+                "label": "Ehrlich, Rodney Ivan",
+                "organization": "University of Cape Town",
+                "x": 0.05441407465423985,
+                "y": 0.1779113437301377,
+                "cluster": 5,
+                "weights": {
+                    "Publications": 6,
+                    "Citations": 93
+                },
+                "scores": {
+                    "Avg. publication year": 2016.5,
+                    "Avg. citations": 15.5
+                }
+            },
+            {
+                "id": "ur.0614213557.05",
+                "label": "Malaba, Thokozile Rosemary",
+                "organization": "University of Cape Town",
+                "x": 0.11108311934772908,
+                "y": 0.6229489681282723,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 2
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 1
+                }
+            },
+            {
+                "id": "ur.0624762722.14",
+                "label": "Omar, Fareed Ebrahim",
+                "organization": "University of Pretoria",
+                "x": 1.062757854108085,
+                "y": 0.04531971057452615,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.0630432204.48",
+                "label": "Kruger, Mariana",
+                "organization": "Tygerberg Hospital",
+                "x": 0.9870393136740505,
+                "y": -0.051048134890980805,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.0643641503.98",
+                "label": "Kalk, Emma Kate",
+                "organization": "University of Cape Town",
+                "x": 0.03693667241220228,
+                "y": 0.6115627066081731,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 0.5
+                }
+            },
+            {
+                "id": "ur.065330662.20",
+                "label": "Labadarios, Demetre N",
+                "organization": "Stellenbosch University",
+                "x": -0.9754303831369365,
+                "y": 0.11594748714910548,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 9
+                },
+                "scores": {
+                    "Avg. publication year": 2021.5,
+                    "Avg. citations": 4.5
+                }
+            },
+            {
+                "id": "ur.0656443204.20",
+                "label": "Sorsdahl, Katherine R",
+                "organization": "University of Cape Town",
+                "x": -0.5993742816686531,
+                "y": 0.3843486904406929,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 4
+                },
+                "scores": {
+                    "Avg. publication year": 2021.5,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.0665740427.33",
+                "label": "Bradshaw, Debbie",
+                "organization": "South African Medical Research Council",
+                "x": -0.7915972244996896,
+                "y": -0.005582075733099241,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 15,
+                    "Citations": 41
+                },
+                "scores": {
+                    "Avg. publication year": 2021.6666666666667,
+                    "Avg. citations": 2.7333333333333334
+                }
+            },
+            {
+                "id": "ur.0677772526.45",
+                "label": "Lund, Crick",
+                "organization": "King's College London",
+                "x": 0.03675292010204604,
+                "y": -0.44810279736090314,
+                "cluster": 6,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 136
+                },
+                "scores": {
+                    "Avg. publication year": 2018.5,
+                    "Avg. citations": 34
+                }
+            },
+            {
+                "id": "ur.0703753106.34",
+                "label": "Hendricks, Marc Gerald",
+                "organization": "Red Cross War Memorial Children's Hospital",
+                "x": 1.1721487775754227,
+                "y": -0.009622555113354211,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 4,
+                    "Citations": 3
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 0.75
+                }
+            },
+            {
+                "id": "ur.0710635041.21",
+                "label": "Prinsloo, Megan R",
+                "organization": "South African Medical Research Council",
+                "x": -0.5131307143958875,
+                "y": -0.06886044731083969,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 5
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 2.5
+                }
+            },
+            {
+                "id": "ur.0735043550.63",
+                "label": "Turawa, Eunice Bolanle",
+                "organization": "South African Medical Research Council",
+                "x": -0.9387893795870818,
+                "y": -0.179051045876112,
+                "cluster": 2,
+                "weights": {
+                    "Publications": 10,
+                    "Citations": 41
+                },
+                "scores": {
+                    "Avg. publication year": 2021.7,
+                    "Avg. citations": 4.1
+                }
+            },
+            {
+                "id": "ur.0736763142.89",
+                "label": "Van Zyl, Anel",
+                "organization": "Tygerberg Hospital",
+                "x": 0.9198639588104078,
+                "y": -0.3406333746804381,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 2
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.0744667605.18",
+                "label": "Madlala, Hlengiwe Pretty",
+                "organization": "University of Cape Town",
+                "x": 0.15561313332256183,
+                "y": 0.5746523370803043,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 2
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 1
+                }
+            },
+            {
+                "id": "ur.0761230764.33",
+                "label": "Boulle, Andrew Marc",
+                "organization": "University of Cape Town",
+                "x": 0.03773412748262587,
+                "y": 0.5458771173574165,
+                "cluster": 4,
+                "weights": {
+                    "Publications": 2,
+                    "Citations": 1
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": 0.5
+                }
+            },
+            {
+                "id": "ur.0763224051.41",
+                "label": "Oni, Tolu",
+                "organization": "MRC Epidemiology Unit",
+                "score<Avg. citations>": null,
+                "x": -0.3141569656774343,
+                "y": 0.20924863836053803,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 0
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": null
+                }
+            },
+            {
+                "id": "ur.07724420575.28",
+                "label": "Van Heerden, Jaques Johan",
+                "organization": "Antwerp University Hospital",
+                "x": 0.8375153686436708,
+                "y": -0.2745022063303124,
+                "cluster": 1,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 2
+                },
+                "scores": {
+                    "Avg. publication year": 2021,
+                    "Avg. citations": 2
+                }
+            },
+            {
+                "id": "ur.0777076621.34",
+                "label": "Jabar, Ardil",
+                "organization": "University of Cape Town",
+                "score<Avg. citations>": null,
+                "x": -0.325275127756656,
+                "y": 0.2602397444146745,
+                "cluster": 3,
+                "weights": {
+                    "Publications": 1,
+                    "Citations": 0
+                },
+                "scores": {
+                    "Avg. publication year": 2022,
+                    "Avg. citations": null
+                }
+            }
+        ],
+        "links": [
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01025063441.61",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.011041701322.00",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01136333017.87",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01230156261.39",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01244110506.80",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01245265744.66",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01263760144.06",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01302041100.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.013143210315.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01344643247.77",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.01367777120.51",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.015541402167.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.016603630271.13",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01003565521.49",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.010111555247.53",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.011037301023.15",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.011361750345.25",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.01234140422.88",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.01241442413.85",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.01317614453.65",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.01362132241.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.01367777120.51",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01005014660.85",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.011037301023.15",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.011361750345.25",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.01234140422.88",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.01241442413.85",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.01317614453.65",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.01362132241.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.01367777120.51",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010111555247.53",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.01025063441.61",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.01075577020.39",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.011041701322.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.01244110506.80",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.01245265744.66",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.013143210315.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.01367777120.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.016603630271.13",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01012127621.38",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.010561041221.54",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01075577020.39",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.011041701322.00",
+                "strength": 10
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01136333017.87",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01230156261.39",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01244110506.80",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01245265744.66",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01263760144.06",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01302041100.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.013143210315.31",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01344643247.77",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.013606335417.21",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01367777120.51",
+                "strength": 8
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.01370633753.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.015541402167.47",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.016603630271.13",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.0665740427.33",
+                "strength": 10
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.0710635041.21",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01025063441.61",
+                "target_id": "ur.0735043550.63",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.011041701322.00",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.01127630520.35",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.01230156261.39",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.01244110506.80",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.01263760144.06",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.01302041100.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.013143210315.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.013606335417.21",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.01367777120.51",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.015541402167.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.016121557502.19",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.016603630271.13",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.0656443204.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.010561041221.54",
+                "target_id": "ur.0735043550.63",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.011041701322.00",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.01244110506.80",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.01245265744.66",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.013143210315.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.01367777120.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.016603630271.13",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01075577020.39",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.011361750345.25",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.01234140422.88",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.01241442413.85",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.01317614453.65",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.01362132241.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.01367777120.51",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011037301023.15",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01127630520.35",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01136333017.87",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01230156261.39",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01244110506.80",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01245265744.66",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01263760144.06",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01302041100.33",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.013143210315.31",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01344643247.77",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.013606335417.21",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01367777120.51",
+                "strength": 10
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.01370633753.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.015541402167.47",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.016121557502.19",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.016603630271.13",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.0656443204.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.0665740427.33",
+                "strength": 11
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.0710635041.21",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011041701322.00",
+                "target_id": "ur.0735043550.63",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.01112372452.72",
+                "target_id": "ur.01367777120.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01112372452.72",
+                "target_id": "ur.015155670243.56",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01112372452.72",
+                "target_id": "ur.0677772526.45",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01127630520.35",
+                "target_id": "ur.01230156261.39",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01127630520.35",
+                "target_id": "ur.01302041100.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01127630520.35",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01127630520.35",
+                "target_id": "ur.01367777120.51",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01127630520.35",
+                "target_id": "ur.016121557502.19",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01127630520.35",
+                "target_id": "ur.0656443204.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01127630520.35",
+                "target_id": "ur.0665740427.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.01234140422.88",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.01241442413.85",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.01317614453.65",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.01362132241.48",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.01367777120.51",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.014001661367.74",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.015270000647.10",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.0575543232.52",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.0624762722.14",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.0630432204.48",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.011361750345.25",
+                "target_id": "ur.0703753106.34",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.01230156261.39",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.01244110506.80",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.01245265744.66",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.01263760144.06",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.01302041100.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.013143210315.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.01344643247.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.01367777120.51",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.016603630271.13",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01136333017.87",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01153112706.28",
+                "target_id": "ur.01367777120.51",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01213650013.48",
+                "target_id": "ur.01367777120.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.01244110506.80",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.01245265744.66",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.01263760144.06",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.01302041100.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.013143210315.31",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.01344643247.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.013606335417.21",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.01367777120.51",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.01370633753.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.016121557502.19",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.016603630271.13",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.0656443204.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.0665740427.33",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.0710635041.21",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.0735043550.63",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.0763224051.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01230156261.39",
+                "target_id": "ur.0777076621.34",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.01241442413.85",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.01317614453.65",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.01362132241.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.01367777120.51",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01234140422.88",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.01317614453.65",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.01362132241.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.01367777120.51",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01241442413.85",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.01245265744.66",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.01263760144.06",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.01302041100.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.013143210315.31",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.01344643247.77",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.013606335417.21",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.01367777120.51",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.01370633753.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.015541402167.47",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.016603630271.13",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.0665740427.33",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01244110506.80",
+                "target_id": "ur.0735043550.63",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.01263760144.06",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.01302041100.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.013143210315.31",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.01323325533.71",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.01344643247.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.01367777120.51",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.016603630271.13",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.0665740427.33",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.0710635041.21",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01245265744.66",
+                "target_id": "ur.0735043550.63",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.012563011617.26",
+                "target_id": "ur.01367777120.51",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.012563011617.26",
+                "target_id": "ur.0614213557.05",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.012563011617.26",
+                "target_id": "ur.0643641503.98",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.012563011617.26",
+                "target_id": "ur.0744667605.18",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.012563011617.26",
+                "target_id": "ur.0761230764.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.01302041100.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.013143210315.31",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.01344643247.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.01367777120.51",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.015541402167.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.016603630271.13",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01263760144.06",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.013143210315.31",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.01344643247.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.01367777120.51",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.015541402167.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.016121557502.19",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.016603630271.13",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.0656443204.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01302041100.33",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.01344643247.77",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.013606335417.21",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.01367777120.51",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.015541402167.47",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.016603630271.13",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.065330662.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.0665740427.33",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013143210315.31",
+                "target_id": "ur.0735043550.63",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.01362132241.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.01367777120.51",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01317614453.65",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01323325533.71",
+                "target_id": "ur.013606335417.21",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01323325533.71",
+                "target_id": "ur.01367777120.51",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01323325533.71",
+                "target_id": "ur.016603630271.13",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01323325533.71",
+                "target_id": "ur.0735043550.63",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01344643247.77",
+                "target_id": "ur.013606335417.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01344643247.77",
+                "target_id": "ur.01367777120.51",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01344643247.77",
+                "target_id": "ur.015541402167.47",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01344643247.77",
+                "target_id": "ur.016603630271.13",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01344643247.77",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01344643247.77",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01344643247.77",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.01367777120.51",
+                "strength": 8
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.015541402167.47",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.016121557502.19",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.016603630271.13",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.065330662.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.0656443204.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.0665740427.33",
+                "strength": 8
+            },
+            {
+                "source_id": "ur.013606335417.21",
+                "target_id": "ur.0735043550.63",
+                "strength": 6
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.01367777120.51",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01362132241.48",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.01370633753.47",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.014001661367.74",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.015155670243.56",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.015541402167.47",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.016121557502.19",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.016603630271.13",
+                "strength": 9
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0610601051.43",
+                "strength": 5
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0614213557.05",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0643641503.98",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0656443204.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0665740427.33",
+                "strength": 12
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0677772526.45",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0735043550.63",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0744667605.18",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0761230764.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0763224051.41",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01367777120.51",
+                "target_id": "ur.0777076621.34",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.01370633753.47",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.014417732745.99",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.015270000647.10",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.014001661367.74",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.014417732745.99",
+                "target_id": "ur.015270000647.10",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014417732745.99",
+                "target_id": "ur.016555476757.78",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014417732745.99",
+                "target_id": "ur.0575543232.52",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014417732745.99",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014417732745.99",
+                "target_id": "ur.0624762722.14",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014417732745.99",
+                "target_id": "ur.0630432204.48",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.014417732745.99",
+                "target_id": "ur.0703753106.34",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.015155670243.56",
+                "target_id": "ur.0677772526.45",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.016124067567.03",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.016555476757.78",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.0575543232.52",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.015270000647.10",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.015541402167.47",
+                "target_id": "ur.016603630271.13",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.015541402167.47",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.015541402167.47",
+                "target_id": "ur.0665740427.33",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.015541402167.47",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.016121557502.19",
+                "target_id": "ur.0656443204.20",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.016121557502.19",
+                "target_id": "ur.0665740427.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016124067567.03",
+                "target_id": "ur.0575543232.52",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016124067567.03",
+                "target_id": "ur.0624762722.14",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016124067567.03",
+                "target_id": "ur.0630432204.48",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016124067567.03",
+                "target_id": "ur.0703753106.34",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016124067567.03",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016124067567.03",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016555476757.78",
+                "target_id": "ur.0575543232.52",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.016555476757.78",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.016555476757.78",
+                "target_id": "ur.0624762722.14",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.016555476757.78",
+                "target_id": "ur.0630432204.48",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.016555476757.78",
+                "target_id": "ur.0703753106.34",
+                "strength": 3
+            },
+            {
+                "source_id": "ur.016603630271.13",
+                "target_id": "ur.065330662.20",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016603630271.13",
+                "target_id": "ur.0665740427.33",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.016603630271.13",
+                "target_id": "ur.0710635041.21",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.016603630271.13",
+                "target_id": "ur.0735043550.63",
+                "strength": 7
+            },
+            {
+                "source_id": "ur.0575543232.52",
+                "target_id": "ur.0604473400.49",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.0575543232.52",
+                "target_id": "ur.0624762722.14",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.0575543232.52",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.0575543232.52",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.0575543232.52",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0575543232.52",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0604473400.49",
+                "target_id": "ur.0624762722.14",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.0604473400.49",
+                "target_id": "ur.0630432204.48",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.0604473400.49",
+                "target_id": "ur.0703753106.34",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.0614213557.05",
+                "target_id": "ur.0643641503.98",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0614213557.05",
+                "target_id": "ur.0744667605.18",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.0614213557.05",
+                "target_id": "ur.0761230764.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0624762722.14",
+                "target_id": "ur.0630432204.48",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.0624762722.14",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.0624762722.14",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0624762722.14",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0630432204.48",
+                "target_id": "ur.0703753106.34",
+                "strength": 4
+            },
+            {
+                "source_id": "ur.0630432204.48",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0630432204.48",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0643641503.98",
+                "target_id": "ur.0744667605.18",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0643641503.98",
+                "target_id": "ur.0761230764.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.065330662.20",
+                "target_id": "ur.0665740427.33",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.065330662.20",
+                "target_id": "ur.0735043550.63",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.0656443204.20",
+                "target_id": "ur.0665740427.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0665740427.33",
+                "target_id": "ur.0710635041.21",
+                "strength": 2
+            },
+            {
+                "source_id": "ur.0665740427.33",
+                "target_id": "ur.0735043550.63",
+                "strength": 9
+            },
+            {
+                "source_id": "ur.0703753106.34",
+                "target_id": "ur.0736763142.89",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0703753106.34",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0710635041.21",
+                "target_id": "ur.0735043550.63",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0736763142.89",
+                "target_id": "ur.07724420575.28",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0744667605.18",
+                "target_id": "ur.0761230764.33",
+                "strength": 1
+            },
+            {
+                "source_id": "ur.0763224051.41",
+                "target_id": "ur.0777076621.34",
+                "strength": 1
+            }
+        ]
+    }
+}
