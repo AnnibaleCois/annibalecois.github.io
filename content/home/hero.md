@@ -41,11 +41,11 @@ hero_media = "xx"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/admin"
-  label = "Know more"
+  label = "About"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Contacts"
 +++
 
 

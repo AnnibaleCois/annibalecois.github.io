@@ -79,11 +79,10 @@ email: ""
 #- Visitors
 ---
 
-Annibale Cois is a researcher in the [Department of Global Health](https://www.sun.ac.za/english/faculty/healthsciences/global-health) at Stellenbosch University, and an Honorary Senior Lecturer in the [Division of Epidemiology and Biostatistics](http://www.publichealth.uct.ac.za/phfm_epidemiology-&-biostatistics) at the University of Cape Town. 
+I am a researcher in the [Department of Global Health](https://www.sun.ac.za/english/faculty/healthsciences/global-health) at Stellenbosch University, and an Honorary Senior Lecturer in the [Division of Epidemiology and Biostatistics](http://www.publichealth.uct.ac.za/phfm_epidemiology-&-biostatistics) at the University of Cape Town. 
 
-His current research focuses on the epidemiology of non-communicable diseases in sub-Saharan Africa, the analysis of data from large scale population surveys and the application of modelling techniques for the joint analysis of heterogeneous data sources.  
+My current research focuses on the epidemiology of non-communicable diseases in sub-Saharan Africa, the analysis of data from large scale population surveys and the application of modelling techniques for the joint analysis of heterogeneous data sources.  
 
-Annibale is the Convenor of the **Survey Methods** module for students enrolled in the MPhil in Health Systems programme at Stellenbosch University and teaches **Advanced statistical methods** for students in the Master of Public Health at the University of Cape Town.
+I am the Convenor of the **Survey Methods** module for students enrolled in the MPhil in Health Systems programme at Stellenbosch University and teaches **Advanced statistical methods** for students in the Master of Public Health at the University of Cape Town.
 
-
-
+I have active [collaborations](/network) with researchers in various Institutions, in South Africa and abroad.  
