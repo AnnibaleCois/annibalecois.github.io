@@ -10,7 +10,7 @@ categories: []
 date: "2023-03-13T00:00:00Z"
 featured: false
 draft: false
-projects: [surveylab]
+projects: [surveymethods]
 
 ---
 
