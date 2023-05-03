@@ -54,7 +54,10 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Course Schedule](Schedule.pdf)
 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [SurveyLab](https://surveylab.sun.ac.za/) 
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [SurveyLab Manual & VidoTutorials](project/surveylab/) 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [SurveyLab2 (Development version)](https://surveylab2.pages.dev/)
+
+
 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Microsoft Teams Cheat  Sheet](https://online.sun.ac.za/pluginfile.php/219989/mod_page/content/1/Teams%20Quick%20Start.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-video"></i></span> [Video training on using Microsoft Teams](https://support.microsoft.com/en-us/office/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7?ui=en-us&rs=en-us&ad=us)   
@@ -117,6 +120,44 @@ Stellenbosch University
 <div style = "margin-left: 20px; display: none;">
 <img src = "s2.png" style = "width:100%"></img>  
 
+
+
+### Lectures
+*Lecture slides*  
+
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [2.1 - Survey Error](II/Slides11.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [2.2 - Target population, study population and sampling](II/Slides12.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [2.3 - Sampling strategies](II/Slides13.pdf)
+
+### Preliminary activities
+*Prescribed readings and activities to complete **before** the session*
+
+ - Reading: [Leibbrand2009: Pages 9-12](http://www.nids.uct.ac.za/publications/technical-papers/108-nids-technical-paper-no1/file)
+ - Reading: [Scholz2021](https://sajip.co.za/index.php/sajip/article/view/1837)
+ - Complete the SurveyLab Exercise and get prepared to report in class.
+
+### Resources
+*Prescribed readings and additional materials*
+
+#### Prescribed
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Groves2010](II/Groves2010.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Biemer2010](II/Biemer2010.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Magnani2005](II/Magnani2005.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Scholtz2021](II/Scholtz2021.pdf)
+
+#### Exercises
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Leibbrand2009](II/Leibbrand2009.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sampling Frame](II/Frame30.xlsx)
+
+#### Additional
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sikorskii2009](II/Sikorskii2009.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Callegaro2010](II/Callegaro2010.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Cois2017](II/Cois2017.pdf)  
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Cornesse2018a](II/Cornesse2018a.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Couper2017](II/Couper2017.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Deloitte2020](II/Deloitte2020.pdf)  
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Couper2017](II/Peterson2017.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Deloitte2020](II/Deloitte2020.pdf)  
 
 <img src = "secend.png" style = "width:100%"></img>  
   
