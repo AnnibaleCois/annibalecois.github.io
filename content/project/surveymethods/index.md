@@ -125,7 +125,7 @@ Stellenbosch University
 ### Lectures
 *Lecture slides*  
 
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [2.1 - Survey Error](II/Slides21.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [2.1 - Survey Error](II/Slides21.pdf) 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [2.2 - Target population, study population and sampling](II/Slides22.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [2.3 - Sampling strategies](II/Slides23.pdf) 
 
