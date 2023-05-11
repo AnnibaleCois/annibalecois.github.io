@@ -120,8 +120,6 @@ Stellenbosch University
 <div style = "margin-left: 20px;">
 <img src = "s2.png" style = "width:100%"></img>  
 
-
-
 ### Lectures
 *Lecture slides*  
 
@@ -158,6 +156,7 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Deloitte2020](II/Deloitte2020.pdf)  
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Couper2017](II/Peterson2017.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Deloitte2020](II/Deloitte2020.pdf)  
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Lyons-Amos2017](II/Lyons-Amos2017.pdf)  
 
 ### Assignment I
 *Due date: 29/05/2023, h 11:59*
@@ -169,7 +168,6 @@ Stellenbosch University
 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-video"></i></span> [Exercise III: Instructions](https://youtu.be/0lBcrSOoiBw)
 
-
 <img src = "secend.png" style = "width:100%"></img>  
   
 </div>
@@ -180,6 +178,43 @@ Stellenbosch University
 <div style = "margin-left: 20px; display: none;">
 <img src = "s3.png" style = "width:100%"></img>  
   
+
+### Lectures
+*Lecture slides*  
+
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [3.1 - Power, precision and sample size](III/Slides31.pdf) 
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [3.2 - Measurement](III/Slides32.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [3.3 - Questionnaires](III/Slides33.pdf) 
+
+### Preliminary activities
+*Prescribed readings and activities to complete **before** the session*
+ - Reading: [Ayele2022](https://doi.org/10.1371/journal.pgph.0000761)
+ - Reading: [Baron2017](https://doi.org/10.1186/s12888-016-1178-x)
+ - Complete the SurveyLab Exercise and get prepared to report in class.
+
+### Resources
+*Prescribed readings and additional materials*
+
+#### Prescribed
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Noordzij2010](https://doi.org/10.1093/ndt/gfp732)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Serdar2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Chiang2015](https://opentextbc.ca/researchmethods/chapter/reliability-and-validity-of-measurement/)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Schaeffer2003](https://www.annualreviews.org/doi/10.1146/annurev.soc.29.110702.110112)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Shaeffer2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4071995/)
+
+#### Exercises
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Formulae](III/Formulae.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sampling Frame](III/Frame30.xlsx)
+
+#### Additional
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [CESD-D-10](III/CESD-D-10.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample Size Calculators](https://sample-size.net/)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)  
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample Size Spreadsheet](III/SampleSize.xlsx)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Tavakol2020](https://doi.org/10.5116/ijme.5f96.0f4a)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Shwarz1999](https://dornsife.usc.edu/assets/sites/780/docs/99_ap_schwarz_self-reports.pdf)  
+
+
 <img src = "secend.png" style = "width:100%"></img>   
     
 </div>
