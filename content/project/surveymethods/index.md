@@ -159,6 +159,17 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Couper2017](II/Peterson2017.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Deloitte2020](II/Deloitte2020.pdf)  
 
+### Assignment I
+*Due date: 29/05/2023, h 11:59*
+
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Assignment](II/Assignment1.pdf)  <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Critical Appraisal Tool](II/CriticalApparisalTool.pdf) 
+
+### Recordings
+*Recorded lectures/tutorials*
+
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-video"></i></span> [Exercise III: Instructions](https://youtu.be/0lBcrSOoiBw)
+
+
 <img src = "secend.png" style = "width:100%"></img>  
   
 </div>
