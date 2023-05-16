@@ -154,7 +154,6 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Cornesse2018a](II/Cornesse2018a.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Couper2017](II/Couper2017.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Deloitte2020](II/Deloitte2020.pdf)  
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Couper2017](II/Peterson2017.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Deloitte2020](II/Deloitte2020.pdf)  
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Lyons-Amos2017](II/Lyons-Amos2017.pdf)  
 
