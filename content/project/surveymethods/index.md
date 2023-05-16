@@ -175,7 +175,7 @@ Stellenbosch University
 
 
 {{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 3: Measurement</span>" >}}
-<div style = "margin-left: 20px; display: none;">
+<div style = "margin-left: 20px; display: block;">
 <img src = "s3.png" style = "width:100%"></img>  
   
 
