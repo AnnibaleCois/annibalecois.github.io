@@ -183,7 +183,6 @@ Stellenbosch University
 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [3.1 - Power, precision and sample size](III/Slides31.pdf) 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [3.2 - Measurement](III/Slides32.pdf)
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [3.3 - Questionnaires](III/Slides33.pdf) 
 
 ### Preliminary activities
 *Prescribed readings and activities to complete **before** the session*
@@ -220,16 +219,52 @@ Stellenbosch University
 {{< /details >}}
 
 
-{{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 4: Non-response, mode of administration, beyond questionnaires</span>" >}}
-<div style = "margin-left: 20px; display: none;">
+{{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 4: Non-response, Data colelction tools and Fieldwork</span>" >}}
+<div style = "margin-left: 20px; display: block;">
 <img src = "s4.png" style = "width:100%"></img>  
   
+### Lectures
+*Lecture slides*  
+
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.1 - Non-resposne bias](IV/Slides41.pdf) 
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.2 - Questionnaires & modes of administration](IV/Slides42.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.3 - Beyond questionnaires](IV/Slides43.pdf) 
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.5 - Data management](IV/Slides45.pdf)
+
+### Preliminary activities
+*Prescribed readings and activities to complete **before** the session*
+ - Complete the SurveyLab Exercise and get prepared to report in class.
+
+
+### Resources
+*Prescribed readings and additional materials*
+
+#### Prescribed
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Leeper2019](https://doi.org/10.1093/poq/nfz010)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [SABSSM2017 - Response Rates](https://repository.hsrc.ac.za/handle/20.500.11910/15052)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Bowling2005](https://doi.org/10.1093/pubmed/fdi031)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Schaeffer2003](https://www.annualreviews.org/doi/10.1146/annurev.soc.29.110702.110112)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Shaeffer2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4071995/)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Boyle2021](https://doi.org/10.1016/j.sapharm.2020.07.025)  
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Pappas2005](https://doi.org/10.1186/1744-8603-1-16)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [UKDS2013](https://dam.ukdataservice.ac.uk/media/622368/costingtool.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [SUN2021](https://www.sun.ac.za/english/Documents/Terms_and_conditions/Current/RDM_Regulations_English.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Research Data Management Overview](https://www.library.yorku.ca/web/open/research-data-management/)
+
+#### Additional
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Harrison2020](https://doi.org/10.1186/s13690-020-00427-w)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Tourangeau2013](https://doi.org/10.17226/18293)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Ardington2012](http://www.nids.uct.ac.za/publications/discussion-papers/wave-1-papers/93-nids-discussion-paper-no02/file)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [Research Data Management Adventure](https://rdm-games.gitlab.io/rdm-adventure/)    
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [DMP Assistant](https://alliancecan.ca/en/services/research-data-management/dmp-assistant)    
+
+
 <img src = "secend.png" style = "width:100%"></img>  
   
 </div>
 {{< /details >}}
 
-{{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 5: Data management, analysis and ethics</span>" >}}
+{{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 5: Data analysis, reporting and ethics</span>" >}}
 <div style = "margin-left: 20px; display: none;">
 <img src = "s5.png" style = "width:100%"></img>  
   
