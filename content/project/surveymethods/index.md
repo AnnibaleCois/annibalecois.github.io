@@ -219,7 +219,7 @@ Stellenbosch University
 {{< /details >}}
 
 
-{{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 4: Non-response, Data colelction tools and Fieldwork</span>" >}}
+{{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 4: Non-response, Data collection tools and Fieldwork</span>" >}}
 <div style = "margin-left: 20px; display: block;">
 <img src = "s4.png" style = "width:100%"></img>  
   
@@ -234,7 +234,6 @@ Stellenbosch University
 ### Preliminary activities
 *Prescribed readings and activities to complete **before** the session*
  - Complete the SurveyLab Exercise and get prepared to report in class.
-
 
 ### Resources
 *Prescribed readings and additional materials*
