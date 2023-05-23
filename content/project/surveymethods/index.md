@@ -226,8 +226,8 @@ Stellenbosch University
 ### Lectures
 *Lecture slides*  
 
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.1 - Non-resposne bias](IV/Slides41.pdf) 
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.2 - Questionnaires & modes of administration](IV/Slides42.pdf)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.1 - Non-response bias](IV/Slides41.pdf) 
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.2 - Questionnaires and modes of administration](IV/Slides42.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.3 - Beyond questionnaires](IV/Slides43.pdf) 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.5 - Data management](IV/Slides45.pdf)
 
