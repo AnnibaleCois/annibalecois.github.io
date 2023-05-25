@@ -257,6 +257,11 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [Research Data Management Adventure](https://rdm-games.gitlab.io/rdm-adventure/)    
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [DMP Assistant](https://alliancecan.ca/en/services/research-data-management/dmp-assistant)    
 
+### Assignment I
+*Due date: 12/06/2023, h 11:59*
+
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Assignment](IV/Assignment2.pdf)  <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample size formulae](IV/Formulae.pdf) 
+5px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample size spreadsheet](III/SampleSize.xlsx) 
 
 <img src = "secend.png" style = "width:100%"></img>  
   
