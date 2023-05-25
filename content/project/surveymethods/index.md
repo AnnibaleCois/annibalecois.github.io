@@ -208,7 +208,7 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [CESD-D-10](III/CESD-D-10.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample Size Calculators](https://sample-size.net/)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)  
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-table"></i></span> [Sample Size Spreadsheet](III/SampleSize.xlsx)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample Size Spreadsheet](III/SampleSize.xlsx)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Tavakol2020](https://doi.org/10.5116/ijme.5f96.0f4a)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Shwarz1999](https://dornsife.usc.edu/assets/sites/780/docs/99_ap_schwarz_self-reports.pdf)  
 
@@ -229,8 +229,9 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.1 - Non-response bias](IV/Slides41.pdf) 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.2 - Questionnaires and modes of administration](IV/Slides42.pdf)
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.3 - Beyond questionnaires](IV/Slides43.pdf) 
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.4 - Fieldwork](IV/Slides44.pdf) 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [4.5 - Data management](IV/Slides45.pdf)
-
+ 
 ### Preliminary activities
 *Prescribed readings and activities to complete **before** the session*
  - Complete the SurveyLab Exercise and get prepared to report in class.
@@ -260,9 +261,8 @@ Stellenbosch University
 ### Assignment I
 *Due date: 12/06/2023, h 11:59*
 
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Assignment](IV/Assignment2.pdf)  
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample size formulae](IV/Formulae.pdf)  
-<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-table"></i></span> [Sample size spreadsheet](III/SampleSize.xlsx)  
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Assignment](IV/Assignment2.pdf)  <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample size formulae](IV/Formulae.pdf) 
+5px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample size spreadsheet](III/SampleSize.xlsx) 
 
 <img src = "secend.png" style = "width:100%"></img>  
   
