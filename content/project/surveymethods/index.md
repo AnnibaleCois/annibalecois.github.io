@@ -316,9 +316,9 @@ Stellenbosch University
 {{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Wrap-up</span>" >}}
 <div style = "margin-left: 20px; display: block;">
 <img src = "s5.png" style = "width:100%"></img>  
-  
+  <br/>
   <img src = "wrapup.png" style = "width:100%"></img>  
-  
+  <br/>
 <img src = "secend.png" style = "width:100%"></img>   
    
 </div>
