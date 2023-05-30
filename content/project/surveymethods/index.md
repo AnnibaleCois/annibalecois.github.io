@@ -278,16 +278,19 @@ Stellenbosch University
 *Lecture slides*  
 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [5.1 - Data analysis and reporting](V/Slides51.pdf) 
-<span style = "margin-left: 25px; color: #FF0000; display:none;"><i class="fas fa-file-pdf"></i></span> [5.2 - Ethical Aspects in Survey Research](V/Slides52.pdf)
+<div style = "display: none;"> 
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [5.2 - Ethical Aspects in Survey Research](V/Slides52.pdf)
+</div>
 
 ### Preliminary activities
 *Prescribed readings and activities to complete **before** the session*
  - Watch the Guest Lecturer's video and get prepared to engage during the contact session:   
    <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-video"></i></span> [Qualitative Methods in Survey Research](https://youtu.be/8xiHRkTJ7Qo)   
 
+<div style = "display: none;">
 ### Course evaluation
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [RedCap Form](https://doi.org/10.1007/s11606-021-06737-1)
-
+</div>
 
 ### Resources
 *Prescribed readings and additional materials*
@@ -311,8 +314,10 @@ Stellenbosch University
 </div>
 <br/>  
 {{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Wrap-up</span>" >}}
-<div style = "margin-left: 20px; display: none;">
+<div style = "margin-left: 20px; display: block;">
 <img src = "s5.png" style = "width:100%"></img>  
+  
+  <img src = "wrapup.png" style = "width:100%"></img>  
   
 <img src = "secend.png" style = "width:100%"></img>   
    
