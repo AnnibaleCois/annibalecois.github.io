@@ -258,7 +258,7 @@ Stellenbosch University
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [Research Data Management Adventure](https://rdm-games.gitlab.io/rdm-adventure/)    
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [DMP Assistant](https://alliancecan.ca/en/services/research-data-management/dmp-assistant)    
 
-### Assignment I
+### Assignment II
 *Due date: 12/06/2023, h 11:59*
 
 <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Assignment](IV/Assignment2.pdf)  <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sample size formulae](IV/Formulae.pdf) 
@@ -270,9 +270,39 @@ Stellenbosch University
 {{< /details >}}
 
 {{< details "<span style = 'font-family: Open Sans,sans-serif;font-weight: 400; font-size:32px; '>Session 5: Data analysis, reporting and ethics</span>" >}}
-<div style = "margin-left: 20px; display: none;">
+<div style = "margin-left: 20px; display: block;">
 <img src = "s5.png" style = "width:100%"></img>  
   
+  
+### Lectures
+*Lecture slides*  
+
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [5.1 - Data analysis and reporting](V/Slides51.pdf) 
+<span style = "margin-left: 25px; color: #FF0000; display:none;"><i class="fas fa-file-pdf"></i></span> [5.2 - Ethical Aspects in Survey Research](V/Slides52.pdf)
+
+### Preliminary activities
+*Prescribed readings and activities to complete **before** the session*
+ - Watch the Guest Lecturer's video and get prepared to engage during the contact session:   
+   <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-video"></i></span> [Qualitative Methods in Survey Research](https://youtu.be/8xiHRkTJ7Qo)   
+
+### Course evaluation
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [RedCap Form](https://doi.org/10.1007/s11606-021-06737-1)
+
+
+### Resources
+*Prescribed readings and additional materials*
+
+#### Prescribed
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Sharma2021](https://doi.org/10.1007/s11606-021-06737-1)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Oldendick2012](V/Oldendick2012.pdf)
+
+
+#### Additional
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Irwin2022](https://ies.ed.gov/ncee/rel/Products/Publication/3752)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html#:~:text=Three%20basic%20principles%2C%20among%20those,of%20persons%2C%20beneficence%20and%20justice)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-file-pdf"></i></span> [Mandal2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3593469/)
+<span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-link"></i></span> [Faculty of Health Science: Health Research Ethics](https://www.sun.ac.za/english/faculty/healthsciences/rdsd/Pages/Health-Research-Ethics.aspx)
+
 <img src = "secend.png" style = "width:100%"></img>  
   
 </div>  
