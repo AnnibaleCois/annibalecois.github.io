@@ -284,7 +284,7 @@ Stellenbosch University
 ### Preliminary activities
 *Prescribed readings and activities to complete **before** the session*
  - Watch the Guest Lecturer's video and get prepared to engage during the contact session:   
-   <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-video"></i></span> [Qualitative Methods in Survey Research](https://youtu.be/8xiHRkTJ7Qo)   
+   <span style = "margin-left: 25px; color: #FF0000;"><i class="fas fa-video"></i></span> [Qualitative Methods in Survey Research](https://youtu.be/rlzD8nTnh4Y)   
 
 ### Resources
 *Prescribed readings and additional materials*
