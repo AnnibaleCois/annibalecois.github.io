@@ -1,5 +1,5 @@
 ---
-title: Survey Methdos
+title: Survey Methods
 subtitle: Online course 
 summary: A CPD accredited course on survey design theory and practice for the health sciences
 authors:
