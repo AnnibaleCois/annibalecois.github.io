@@ -1,6 +1,6 @@
 ---
 title: "The interface between SARS-CoV-2 and non-communicable diseases (NCDs) in a high HIV/TB burden district level hospital setting, Cape Town, South Africa"
-date: 2022-11-01
+date: 2023-10-01
 publishDate: 2023-01-18T11:26:15.857937Z
 authors: ["Ayanda Trevor Mnguni", "Denzil Schietekat", "Nabilah Ebrahim", "Nawhaal Sonday", "Nicholas Boliter", "Neshaad Schrueder", "Shiraaz Gabriels", "Annibale Cois", "Jacques L. Tamuzi", "Yamanya Tembo", "Mary-Ann Davies", "Rene English", "Peter S. Nyasulu", "the COVID-19 Research Response Collaboration"]
 publication_types: ["2"]
