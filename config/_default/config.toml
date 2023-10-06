@@ -17,7 +17,6 @@ copyright = "&copy; 2022-{year} Annibale Cois, acois@sun.ac.za"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "G-6TPS7SVTNY"
-googleAnalyticsID = "G-6TPS7SVTNY"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
