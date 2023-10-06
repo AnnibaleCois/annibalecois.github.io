@@ -1,0 +1,13 @@
+---
+title: "Socioeconomic Status Significantly Impacts Childhood Cancer Survival in South Africa"
+date: 2023-09-01
+authors: ["Hendricks M, Cois A, Geel J, van Heerden J, Dandara C, Mohamed K, Donald KA, Kruger M"]
+publication_types: ["2"]
+abstract: "Background and aims: Significantly discrepant survival rates have been documented in single disease childhood cancer cohorts in South Africa; those from higher socioeconomic groups were shown to have a significantly lower risk of death than those from less affluent households. This study aimed to determine the impact of socioeconomic status (SES) on childhood cancer survival using pooled South African data.Methods: Five databases spanning January 2000 to December 2021 were interrogated. SES status was assigned based on a public sector annual household income classification. H0 households (formally unemployed) received free healthcare. H1, H2 and H3 (annual income > United States Dollar [USD] 19,000) households paid for healthcare relative to their income. The Spearman test assessed correlations between SES and disease stage in patients with solid tumours. Hazard ratios were determined using Cox regression modelling. The Kaplan-Meier procedure estimated overall survival (OS).Results: A total of 1598 children were eligible for analysis; 1269 had a solid tumour with a negative correlation between SES and stage (Spearman rho = -.178; p < .001). Patients with solid tumours and lower SES showed proportionately higher numbers of stage III and IV disease (p < .01). This proportion decreased with higher SES categories. In the multivariate analyses adjusted for sex, age, tumour type and stage, higher SES was associated with lower mortality risk (p < .001), indicating that the impact of SES on survival was in excess of any effect that could be explained by lower stage disease alone. There was a strong positive correlation between race and SES (Fisher's exact tests, p < .001) across all groups and all SES strata. Five-year OS was 85.3% in children from H3 households versus 46.3% in children from H0 households (p < .001). Conclusion: SES significantly impacts childhood cancer survival for children with solid tumours in South Africa. SES is a robust surrogate for race in South Africa as a prognostic metric of disease outcome in childhood cancer. Advocacy to increase social support for impoverished patients is essential to achieve equitable improvements in outcomes treated with standardised national treatment guidelines."
+featured: false
+publication: "*Pediatric Blood and Cancer*"
+tags: ["health promotion", "burden of disease"]
+url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/pbc.30669"
+doi: "10.1002/pbc.30669"
+---
+
