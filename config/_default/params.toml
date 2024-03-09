@@ -54,9 +54,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "acois@sun.ac.za"
-phone = "+27 21 938 9817"
-address = "Education Building Room 4060B, Stellenbosch University, Tygerberg Campus, Cape Town, South Africa"
+email = "annibale.cois@mrc.ac.za"
+phone = "+27 21 938 0441"
+address = "Room 110, Building B. South African Medical Research Council, Francie van Zijl Drive, Parow Valley, Cape Town, South Africa"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -90,8 +90,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "-33.90753458146074"
-longitude = "18.61238256212066"
+latitude = "-33.91494458578834"
+longitude = "18.606864359166806"
 zoom = 15
 
 ############################

@@ -19,8 +19,8 @@ role: Researcher in Global Health
 
 # Organizations/Affiliations
 organizations:
-- name: Stellenbosch University
-  url: "www.sun.ac.za"
+- name: South African Medical Research Council
+  url: "https://www.samrc.ac.za/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -79,7 +79,7 @@ email: ""
 #- Visitors
 ---
 
-I am a Senior Researcher in the [Department of Global Health](https://www.sun.ac.za/english/faculty/healthsciences/global-health) at Stellenbosch University, and an Honorary Senior Lecturer in the [Division of Epidemiology and Biostatistics](http://www.publichealth.uct.ac.za/phfm_epidemiology-&-biostatistics) at the University of Cape Town. I am a visiting fellow at the University of Greenwich in London.
+I am a Senior Specialist Scientist in the [Burden of Disease Resaerch Unit](https://www.samrc.ac.za/research/intramural-research-units/BOD) at the South African Medical Research Council, and an Honorary Senior Lecturer in the [Division of Epidemiology and Biostatistics](http://www.publichealth.uct.ac.za/phfm_epidemiology-&-biostatistics) at the University of Cape Town. I am a visiting fellow at the University of Greenwich in London.
 
 My current research focuses on the epidemiology of non-communicable diseases in sub-Saharan Africa, the analysis of data from large scale population surveys and the application of modelling techniques for the joint analysis of heterogeneous data sources.  
 

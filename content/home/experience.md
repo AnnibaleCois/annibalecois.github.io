@@ -17,14 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[experience]]
-  title = "Researcher"
+  title = "Senior Specialist Scientist"
+  company = "South African Medical Research Council, Burden of Disease Research Unit"
+  company_url = "https://www.mrc.ac.za"
+  location = "Cape Town, South Africa"
+  date_start = "2024-03-01"
+  date_end = ""
+[[experience]]
+  title = "Senior Researcher"
   company = "Stellenbosch University, Department of Global Health"
   company_url = "https://www.sun.ac.za"
   location = "Cape Town, South Africa"
   date_start = "2021-04-01"
-  date_end = ""
+  date_end = "2024-02-29"
 [[experience]]
   title = "Honorary Senior Lecturer"
   company = "University of Cape Town, Division of Epidemiology & Biostatistics, School of Public Health"
