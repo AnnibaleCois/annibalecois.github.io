@@ -7,7 +7,7 @@ weight = 10  # Order that this section will appear.
 
 title = "Home"
 name = "Annibale Cois"
-occupation = "Researcher in Global Health"
+occupation = "Epidemiologist"
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.

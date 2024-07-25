@@ -15,7 +15,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Researcher in Global Health
+role: Senior Specialist Scientist
 
 # Organizations/Affiliations
 organizations:
