@@ -10,9 +10,9 @@ During this workshop, we will conduct a series of ‘virtual surveys’ on a sim
 <br/>
 Data analysis examples will be presented using R environment for statistical computing ([https://www.R-project.org/](https://www.R-project.org/)). Participants are encouraged to bring their laptops with a working version of R these two packages installed: 
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Survey (https//:10.32614/CRAN.package.survey)](https//:10.32614/CRAN.package.survey)
+&nbsp;&nbsp;&nbsp;&nbsp;[Survey (DOI: 10.32614/CRAN.package.survey)](https://cran.r-project.org/web/packages/survey/index.html)
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Weights (https//10.32614/CRAN.package.weights)](https//10.32614/CRAN.package.weights)
+&nbsp;&nbsp;&nbsp;&nbsp;[Weights (DOI: 10.32614/CRAN.package.weights)](https://cran.r-project.org/web/packages/weights/index.html)
 <br/>
 <br/>
 The datasets that will be using during the workshop are:
