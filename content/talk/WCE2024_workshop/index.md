@@ -19,7 +19,7 @@ The datasets that will be using during the workshop are:
 [Responses_1.csv](Responses_1.csv), [Responses_2.csv](Responses_2.csv), [Responses_3.csv](Responses_3.csv) and [Responses_4.csv](Responses_4.csv).
 <br/>
 <br/>
-Cloud folder to share data duirng the workshop: 
+Cloud folder to share data during the workshop: 
 [Goodle Drive](https://drive.google.com/drive/folders/1fwlL1qWmCIL23Ld--PcjWV5oj2813cPH?usp=sharing)
 <br/>
 <br/>
