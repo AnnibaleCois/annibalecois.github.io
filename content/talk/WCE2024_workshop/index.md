@@ -6,19 +6,13 @@ location: Cape Town International Conference Centre, Cape Town, South Africa
 summary: "Workshop"
 abstract: "Obtaining information about a large population by selecting and measuring a sample from that population is common epidemiological practice and, in this context, the use of complex sampling strategies is ubiquitous. 
 However, the use of these strategies – such as clustering and stratification – has implications in terms of how the data should be analysed and how the population estimates are to be interpreted. A deep understanding of the links between sampling strategy and realisation, sample sizes, analysis techniques and accuracy of the population estimates is essential for optimal study planning and, similarly, for secondary analysis of data previously collected.  
-During this workshop, we will conduct a series of ‘virtual surveys’ on a simulated human population of approximately 40 000 individuals inhabiting a hypothetical territory remotely accessible through a graphical web interface (the SurveyLab). We will discuss the results of these experiments as ‘case studies’ to get a practical understanding of the pros and cons of alternative sampling strategies and statistical methods and how poor choices can lead to profoundly misleading results and/or waste of resources. We will use the data gathered during the virtual surveys to illustrate alternative approaches that can be used to analyse this kind of information.
-<br/>
-Data analysis examples will be presented using R environment for statistical computing ([https://www.R-project.org/](https://www.R-project.org/)). Participants are encouraged to bring their laptops with a working version of R these two packages installed: 
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Survey (DOI: 10.32614/CRAN.package.survey)](https://cran.r-project.org/web/packages/survey/index.html)
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Weights (DOI: 10.32614/CRAN.package.weights)](https://cran.r-project.org/web/packages/weights/index.html)
-<br/>
-<br/>
-The datasets that will be using during the workshop are:
-[Responses_1.csv](Responses_1.csv), [Responses_2.csv](Responses_2.csv), [Responses_3.csv](Responses_3.csv) and [Responses_4.csv](Responses_4.csv).
-<br/>
-<br/>
+<br/> 
+The workshop was held during the [World Epidemiology Congress 2024](https://www.wce2024.org) and included a series of ‘virtual surveys’ on a simulated human population of approximately 40 000 individuals inhabiting a hypothetical territory remotely accessible through a graphical web interface (the SurveyLab). The data collected during these these experiments were used as ‘case studies’ to get a practical understanding of the pros and cons of alternative sampling strategies and analytical methods and how poor choices can lead to profoundly misleading results and/or waste of resources.  
+<br/> 
+<br/> 
+More than 120 participants form 40 countries attended the workshop.  
+<br/>  
+<br/> 
 Slides: 
 [Introduction](WCE2024_1_INTRO.pdf), [Sampling](WCE2024_2_SAMPLING.pdf), [Analysis](WCE2024_3_ANALYSIS.pdf)
 <br/>
@@ -38,7 +32,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
@@ -66,7 +60,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["surveylab"]
 # - internal-project
 
 # Enable math on this page?
