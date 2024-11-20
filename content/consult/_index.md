@@ -18,3 +18,14 @@ Consulting services for the following types of activities:
 * Support with **data interpretation** and **analytical report writing**.
 
 Please, make contact for availability and fees.
+  
+Some of my clients:  
+  
+![Bearfish Strategic Services](Bearfish.jpg)  
+
+![UCT REEP](reep.png) 
+  
+![International SOS](sos.webp) 
+  
+![Desmond Tutu Health Foundation](tutu.png) 
+  
