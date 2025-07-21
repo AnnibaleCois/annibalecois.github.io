@@ -44,5 +44,5 @@ date_format = "Jan 2006"
   company_url = "https://www.gre.ac.uk/"
   location = "London, UK"
   date_start = "2022-05-23"
-  date_end = ""
+  date_end = "2025-06-30"
 +++

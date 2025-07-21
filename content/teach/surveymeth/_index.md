@@ -41,7 +41,7 @@ The course will be offered online, with weekly contact sessions, individual enga
 Example course materials:
 
 1. [Example Slides (2022)](exampleslides.pdf)
-2. [Course schedule & prescribed readings (2022)](schedule2022.pdf)
+2. [Course schedule and prescribed readings (2022)](schedule2022.pdf)
  
 
 ## Info
