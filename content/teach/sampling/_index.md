@@ -30,6 +30,8 @@ Southern African Development Community (SADC), and **ZAR 5000** for participant 
 * Registration and general enquiries [Celine.Beneke@mrc.ac.za](mailto:Celine.Beneke@mrc.ac.za)
 
 * Information leaflet: [Download](leaflet.pdf)
+
+* Link to registration page: [Register](https://events.samrc.ac.za/Home.aspx)
   
 ## Overview
   
