@@ -31,7 +31,7 @@ Southern African Development Community (SADC), and **ZAR 5000** for participant 
 
 * Information leaflet: [Download](leaflet.pdf)
 
-* Link to registration page: [Register](https://events.samrc.ac.za/Home.aspx)
+* Link to registration page: [Register](https://events.samrc.ac.za/DelegateRegister.aspx?ConferenceID=61&ConferenceCode=FFWC25&ConferenceName=From%20a%20Few%20to%20a%20Whole%20Crowd&ConferenceEndDate=2025/10/03%2000:00:00)
   
 ## Overview
   
