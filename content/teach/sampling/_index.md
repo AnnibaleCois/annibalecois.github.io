@@ -21,17 +21,96 @@ share: true
 * **General info:** The workshop is organised by the [Burden of Disease Research Unit](https://www.samrc.ac.za/research/intramural-research-units/BOD), 
 South African Medical Research Council and the [Division of Epidemiology and Biostatistics](https://health.uct.ac.za/school-public-health/divisions/epidemiology-and-biostatistics), 
 School of Public Health, University of Cape Town.  
-  
-The cost of the workshop (including teaching materials, lunch and teas, VAT) is **ZAR 3000** for participants from South Africa and the 
+
+* **Registration:** [Online registration](https://events.samrc.ac.za/DelegateRegister.aspx?ConferenceID=61&ConferenceCode=FFWC25&ConferenceName=From%20a%20Few%20to%20a%20Whole%20Crowd&ConferenceEndDate=2025/10/03%2000:00:00) is required. The cost of the workshop (including teaching materials, lunch and teas, VAT) is **ZAR 3000** for participants from South Africa and the 
 Southern African Development Community (SADC), and **ZAR 5000** for participant from other countries. 
-  
-* Workshop information and content: [Annibale.Cois@mrc.ac.za](mailto:annibale.cois@mrc.ac.za)
-  
-* Registration and general enquiries [Celine.Beneke@mrc.ac.za](mailto:Celine.Beneke@mrc.ac.za)
+{{< details "**<span style = 'color:#FF0000;'>Click here for detail on registration</span>**">}} 
+<div style = "background-color: #CCCCCC; padding: 20px;">
 
-* Information leaflet: [Download](leaflet.pdf)
+**Register Online [Here](https://events.samrc.ac.za/DelegateRegister.aspx?ConferenceID=61&ConferenceCode=FFWC25&ConferenceName=From%20a%20Few%20to%20a%20Whole%20Crowd&ConferenceEndDate=2025/10/03%2000:00:00)** 
 
-* Link to registration page: [Register](https://events.samrc.ac.za/DelegateRegister.aspx?ConferenceID=61&ConferenceCode=FFWC25&ConferenceName=From%20a%20Few%20to%20a%20Whole%20Crowd&ConferenceEndDate=2025/10/03%2000:00:00)
+**Registration Fees**
+* Registration will be in South African Rands (ZAR).   
+*	South Africa/SADC Countries: R3000.00
+*	Other Countries: R4,900.00
+   
+<br/>
+   
+Conference registration fee includes:
+  * Attendance to all sessions in the Programme
+  * Teas and lunches during the workshop
+  * Access to workshop software 
+   
+<br/>
+   
+Please note that:
+  * Registration fees do not include accommodation, visa costs or airport transfers.
+  *	Registration can only be confirmed once payment is received.
+  *	For any registration queries, please contact: [celine.beneke@mrc.ac.za](mailto:celine.beneke@mrc.ac.za). 
+
+<br/>
+   
+**Payment Details**
+ 
+Payment can be made by any of the following methods: 
+  * Credit card: Payments will be done via PayU
+  *	Bank transfer (EFT)
+   
+<br/>
+   
+If you are paying via bank/wire transfer, please clearly indicate your name and surname or your Billing information reference number on the deposit slip/confirmation of payment. 
+A copy of the deposit slip/ confirmation of payment must be mailed to the registration manager, Celine Beneke, [celine.beneke@mrc.ac.za](mailto:celine.beneke@mrc.ac.za). 
+  
+Note: The organizers will not be responsible for identifying funds if the delegate’s details or billing reference information are not mentioned.
+   
+<br/>
+
+**Payment Deadlines**  
+
+All registration payments should be paid in full by **12 September 2025**.
+
+
+**Bank/wire transfers must be made payable to:** 
+ 
+Account holder name: SOUTH AFRICAN MEDICAL RESEARCH COUNCIL  
+Account name: MRC CONFERENCE INCOME  
+Absa account number: 90 6475 8975  
+Branch: ABS PBLCS W/C  
+Branch code: 632005  
+   
+<br/>
+
+**Cancellations and Refunds** 
+  
+Cancellations must be sent in writing to Celine Beneke [celine.beneke@mrc.ac.za](mailto:celine.beneke@mrc.ac.za).  
+
+Cancellations received before 28 August will qualify for a refund that is 25% less than the original amount paid to cover administration costs. Refunds received after 28 August will be forfeited. 
+    
+As an alternative to cancellation, your registration may be transferred to another person before 12 September without incurring any cost penalty. 
+Please note that refunds will be processed after the workshop.
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+{{< /details >}} 
+  
+* **Contacts & downloads:** 
+  * Workshop information and content: [Annibale.Cois@mrc.ac.za](mailto:annibale.cois@mrc.ac.za)
+ 
+  * Registration and general enquiries [Celine.Beneke@mrc.ac.za](mailto:Celine.Beneke@mrc.ac.za)
+
+  * Information leaflet: [Download](leaflet.pdf)
+
+  * Link to registration page: [Register](https://events.samrc.ac.za/DelegateRegister.aspx?ConferenceID=61&ConferenceCode=FFWC25&ConferenceName=From%20a%20Few%20to%20a%20Whole%20Crowd&ConferenceEndDate=2025/10/03%2000:00:00)
   
 ## Overview
   
