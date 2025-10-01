@@ -92,15 +92,6 @@ Please note that refunds will be processed after the workshop.
 </div>
 
 
-
-
-
-
-
-
-
-
-
 {{< /details >}} 
   
 * **Contacts & downloads:** 
