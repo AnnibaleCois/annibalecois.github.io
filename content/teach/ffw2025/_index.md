@@ -49,7 +49,7 @@ share: true
   
 * **SurveyLab:**
 
-  * SurveyLab [Connect](http://196.21.144.137:3838/SurveyLab/)
+  * SurveyLab [Connect](http://shiny.samrc.ac.za:3838/SurveyLab/)
 
    <br/>
 
