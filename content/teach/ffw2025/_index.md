@@ -43,7 +43,7 @@ share: true
 * **Slides:**
 
   * Day 1: [Download](Slides_day1.pdf)
- <!--  * Day 2: [Download](Slides_day2.pdf)  -->
+  * Day 2: [Download](Slides_day2.pdf)  
 
    <br/>
   
