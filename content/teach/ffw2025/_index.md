@@ -46,6 +46,12 @@ share: true
   * Day 2: [Download](Slides_day2.pdf)  
 
    <br/>
+
+* **Example analysis code:**
+
+  * R Code: [Download (pdf)](ExampleCode.pdf)
+
+   <br/>
   
 * **SurveyLab:**
 
