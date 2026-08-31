@@ -43,13 +43,19 @@ share: true
 * **Slides:**
 
   * Day 1: [Download](Slides_day1.pdf)
- <!--  * Day 2: [Download](Slides_day2.pdf)  -->
+  * Day 2: [Download](Slides_day2.pdf)  
+
+   <br/>
+
+* **Example analysis code:**
+
+  * R Code: [Download (pdf)](ExampleCode.pdf)
 
    <br/>
   
 * **SurveyLab:**
 
-  * SurveyLab [Connect](http://196.21.144.137:3838/SurveyLab/)
+  * SurveyLab [Connect](http://shiny.samrc.ac.za:3838/SurveyLab/)
 
    <br/>
 
