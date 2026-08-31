@@ -1,0 +1,15 @@
+---
+title: "Body Mass Index and Mortality in a Nationally Representative Cohort of South African Adults"
+date: 2025-09-26
+publishDate: 2025-09-26T11:26:15.051075Z
+authors: ["Annibale Cois"]
+publication_types: ["2"]
+abstract: "Aim To examine the association between Body Mass Index (BMI) and all-cause mortality in South Africa. Methods Longitudinal data on adults 20 years and older from five waves (2008, 2010–11, 2012, 2014–15, and 2017) of the South African National Income Dynamics Study were analysed. Survival proportional hazard models, adjusted for sociodemographic and lifestyle characteristics, were used to estimate the relationship between BMI and mortality. Sensitivity analyses were conducted to assess the robustness of the estimates. Results Of the 12,402 eligible individuals, 10917 had valid BMI measurements and were included in the analyses. During a total of 83,077 person-years of observation, 1741 individuals died. Hazard ratios for all-cause mortality were significantly lower in the BMI range 25–40 Kg/m2 in comparison with the reference category of 18.5–25 Kg/m2 and were minimal in the range 30–35 Kg/m2 (HR=0.68, 95% CI: 0.50–0.88). BMI < 18.5 Kg/m2 was associated with an increased risk of death, with a maximum hazard ratio of 2.14 (95% CI: 1.36–3.4) in the <16 Kg/m2 category. The pattern was repeated in the sex-specific analyses. The relationship persisted after restricting the analyses to never smokers, excluding subjects with pre-existing conditions or who died in the first two years of follow-up. Conclusions This study suggests that, in the South African adult population, BMI in the overweight or mild obesity range according to international definitions is associated with a reduced risk of mortality compared to the healthy weight range. Further research is needed to corroborate these results."
+featured: false
+publication: "*Global Epidemiology*"
+tags: ["All-cause mortality","Body mass index","Obesity","South Africa","Survival analysis"]
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S2590113325000380"
+doi: "10.1016/j.gloepi.2025.100220"
+projects: ["expose"]
+---
+
